@@ -15,7 +15,7 @@ title: Home
   </p>
   <div class="actions">
     <a class="button primary" href="{{ site.contact_url }}">Message on GitHub</a>
-    <a class="button" href="{{ site.cv_pdf | relative_url }}">CV (PDF)</a>
+    <a class="button" href="{{ '/cv/' | relative_url }}">CV Highlights</a>
     <a class="button" href="{{ site.google_scholar }}">Google Scholar</a>
     <a class="button" href="https://orcid.org/{{ site.orcid }}">ORCID</a>
     <a class="button" href="https://github.com/{{ site.github_username }}">GitHub</a>
@@ -96,7 +96,7 @@ title: Home
     Contact: <a href="{{ site.contact_url }}">Direct message on GitHub</a>
   </p>
   <p>
-    Additional details: <a href="{{ '/cv/' | relative_url }}">full CV page</a>,
+    Additional details: <a href="{{ '/cv/' | relative_url }}">CV highlights page</a>,
     <a href="{{ '/publications/' | relative_url }}">publications page</a>,
     and <a href="{{ '/appearences/' | relative_url }}">media appearances</a>.
   </p>
