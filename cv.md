@@ -24,7 +24,7 @@ Updated: Apr 1th, 2024.
 -   **ORCiD**: [0000-0001-9262-298X](https://orcid.org/0000-0001-9262-298X)
 -   **GitHub**: [kmfolgar](https://github.com/kmfolgar)
 -   **Twitter**: [\@kmfolgar](https://twitter.com/kmfolgar)
--   **URL**: <https://kmartinez.com>
+-   **URL**: <https://kmfolgar.github.io>
 
 **Other affiliations:**\
 - Associated Researcher, Unit of Chronic Diseases and Nutrition, Institute of Nutrition of Central America and Panama.\
