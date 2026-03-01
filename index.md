@@ -5,16 +5,16 @@ title: Home
 
 <section class="hero" id="overview">
   <p class="kicker">Physician-Epidemiologist (MD, PhD)</p>
-  <h1>Kevin Martínez-Folgar</h1>
+  <h1>Kevin Martínez-Folgar, MD, PhD</h1>
   <p class="tagline">
-    Epidemiologist focused on chronic disease prevention, urban health, and health equity across Latin American and U.S. contexts.
-    I combine epidemiologic methods, geospatial analysis, and data science to support policy-relevant public health research.
+    Epidemiologist focused on Cancer Epidemiology, chronic disease prevention, and health equity across Latin American and U.S. contexts.
+    I combine epidemiologic methods with AI-enabled data capture and data analysis to support policy-relevant public health research.
   </p>
   <p class="hero-meta">
     Former Impact Scholar (Postdoctoral Research Fellow), Center for Global Health Equity, University of Michigan.
   </p>
   <div class="actions">
-    <a class="button primary" href="mailto:{{ site.email }}">Email</a>
+    <a class="button primary" href="{{ site.contact_url }}">Message on GitHub</a>
     <a class="button" href="{{ site.cv_pdf | relative_url }}">CV (PDF)</a>
     <a class="button" href="{{ site.google_scholar }}">Google Scholar</a>
     <a class="button" href="https://orcid.org/{{ site.orcid }}">ORCID</a>
@@ -25,11 +25,14 @@ title: Home
 <section class="section" id="expertise">
   <h2>Core Expertise</h2>
   <ul class="chip-list">
+    <li>Cancer Epidemiology</li>
     <li>Chronic Disease Epidemiology</li>
     <li>Social Epidemiology</li>
     <li>Urban Health</li>
     <li>Health Equity</li>
     <li>Health Data Science</li>
+    <li>AI for Data Capture</li>
+    <li>AI for Data Analysis</li>
     <li>Geospatial Analysis (GIS)</li>
     <li>Multilevel Modeling</li>
     <li>Policy-Relevant Research</li>
@@ -51,6 +54,8 @@ title: Home
     <article class="card">
       <h3>Data, Tools, and Translation</h3>
       <ul>
+        <li>AI-assisted data capture workflows</li>
+        <li>AI-assisted data analysis pipelines</li>
         <li>R, Python, and reproducible analytic workflows</li>
         <li>Geospatial data integration and mapping</li>
         <li>Data visualization for technical and policy audiences</li>
@@ -88,7 +93,7 @@ title: Home
     My work bridges rigorous quantitative methods with actionable public health questions.
   </p>
   <p>
-    Contact: <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+    Contact: <a href="{{ site.contact_url }}">Direct message on GitHub</a>
   </p>
   <p>
     Additional details: <a href="{{ '/cv/' | relative_url }}">full CV page</a>,
