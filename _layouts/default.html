@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
   <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-174006716-1"></script>
@@ -19,6 +19,9 @@
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&family=Source+Serif+4:opsz,wght@8..60,500;8..60,700&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
@@ -26,36 +29,59 @@
   </head>
 
   <body>
+    <a class="skip-link" href="#main">Skip to main content</a>
     <div class="wrapper-masthead">
       <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+        <header class="masthead">
+          <div class="masthead-top">
+            <a href="{{ site.baseurl }}/" class="site-avatar" aria-label="Home">
+              <img src="{{ site.avatar }}" alt="{{ site.name }}" />
+            </a>
 
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
+            <div class="site-info">
+              <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+              <p class="site-description">{{ site.description }}</p>
+            </div>
+
+            <nav aria-label="Primary navigation">
+              <a href="{{ site.baseurl }}/blog" {% if page.url contains "/blog" %}class="is-active"{% endif %}>Blog</a>
+              <a href="{{ site.baseurl }}/cv" {% if page.url contains "/cv" %}class="is-active"{% endif %}>CV</a>
+              <a href="{{ site.baseurl }}/publications" {% if page.url contains "/publications" %}class="is-active"{% endif %}>Research</a>
+              <a href="{{ site.baseurl }}/appearences" {% if page.url contains "/appearences" %}class="is-active"{% endif %}>Appearances</a>
+              <a href="{{ site.baseurl }}/about" {% if page.url contains "/about" %}class="is-active"{% endif %}>About</a>
+            </nav>
           </div>
 
-          <nav>
-            <a href="{{ site.baseurl }}/blog">Blog</a>
-			<a href="{{ site.baseurl }}/cv">CV</a>
-			<a href="{{ site.baseurl }}/publications">Research</a>
-			<a href="{{ site.baseurl }}/appearences">Appearences</a>
-            <a href="{{ site.baseurl }}/about">About</a>
-			
-          </nav>
+          <div class="masthead-bottom">
+            <p class="header-note">
+              Physician-epidemiologist advancing chronic disease prevention, urban health research, and data-driven policy.
+            </p>
+            <div class="header-ctas">
+              <a class="header-cta" href="{{ site.baseurl }}/cv">View CV</a>
+              <a class="header-cta" href="{{ site.baseurl }}/publications">Publications</a>
+              {% if site.footer-links.email %}
+              <a class="header-cta" href="mailto:{{ site.footer-links.email }}">Contact</a>
+              {% endif %}
+            </div>
+          </div>
         </header>
       </div>
     </div>
 
-    <div id="main" role="main" class="container">
-      {{ content }}
-    </div>
+    <main id="main" role="main" class="container">
+      <section class="content-panel">
+        {{ content }}
+      </section>
+    </main>
 
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
-          {% include svg-icons.html %}
+          <p class="footer-label">Connect</p>
+          <div class="footer-icons">
+            {% include svg-icons.html %}
+          </div>
+          <p class="footer-copy">&copy; {{ "now" | date: "%Y" }} {{ site.name }}</p>
         </footer>
       </div>
     </div>
