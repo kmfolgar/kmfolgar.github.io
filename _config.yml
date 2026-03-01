@@ -1,6 +1,6 @@
 title: Kevin Martínez-Folgar, MD, PhD.
 
-theme: jekyll-theme-merlot
+theme: jekyll-theme-minimal
 
 name: Kevin Martínez-Folgar, MD, PhD.
 description: Physician-Epidemiologist | Health Data Scientist | Health Policy | Global Health Equity
@@ -23,10 +23,3 @@ footer-links:
   googleplus:
 
 url: https://kmfolgar.github.io
-
-header_pages:
-  - about.md
-  - cv.md
-  - publications.md
-  - appearences.md
-  - blog.md

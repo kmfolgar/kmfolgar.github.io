@@ -16,11 +16,7 @@ Updated: Apr 1th, 2024.
 ## Contact Details
 
 -   **Affiliation**:
-    -   Center for Global Health Equity, Medical School, University of Michigan.
--   **Office**:
-    -   North Campus Research Complex
-    -   2800 Plymouth Road Building 100
-    -   Ann Arbor, MI 48105 USA
+    -   Available upon request.
 -   **ORCiD**: [0000-0001-9262-298X](https://orcid.org/0000-0001-9262-298X)
 -   **GitHub**: [kmfolgar](https://github.com/kmfolgar)
 -   **Twitter**: [\@kmfolgar](https://twitter.com/kmfolgar)
@@ -32,7 +28,7 @@ Updated: Apr 1th, 2024.
 - Affiliated Research Professor, School of Medical Sciences, University of San Carlos of Guatemala.
 
 # Education
--   (*2023 - curent)* ***Impact scholar - Postdoctoral Research Fellow***.\
+-   (*2023 - 2025)* ***Impact scholar - Postdoctoral Research Fellow***.\
     Center for Global Health Equity, University of Michigan, MI, USA.\
     Project Tittle: *Urban environments and chronic diseases: the role of place in shape health inequities* **\
     **Postdoctoral Advisor Committee: *David Flood (U-M), Joe Kolars(U-M), Lindsay Kobayashi(U-M), Manuel Ramirez-Zea (INCAP), Aryeh Stein (EMORY).*
@@ -75,7 +71,7 @@ Updated: Apr 1th, 2024.
 
 # Professional Experience
 
-**October 2023 -- to date** Impact Scholar (Postdoctoral Research Fellow), Center for Global Health Equity, University of Michigan.
+**October 2023 -- 2025** Impact Scholar (Postdoctoral Research Fellow), Center for Global Health Equity, University of Michigan.
 
 **September 2019 -- September 2023** Graduate Research Fellow in the Urban Health Collaborative, Dornsife School of Public Health, Drexel University.
 

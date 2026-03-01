@@ -23,15 +23,12 @@ for x in list1:
 
 **Kevin Martinez-Folgar, MD, PhD.**   
 kmfolgar [at] umich [dot] edu       
-Impact Scholar 
-Center for Global Health Equity, 
-School of Medicine   
-University of Michigan    
+Former Impact Scholar (University of Michigan)    
 
 
-Dr. Kevin Martinez-Folgar is a physician and epidemiologist with expertise in chronic disease epidemiology and prevention. Dr. Martinez-Folgar is currently an Impact Scholar (Postdoctoral Research Fellow) with the Center For Global Health Equity at the University of Michigan. Dr. Martinez-Folgar trained as a physician in the University of San Carlos of Guatemala, and hold a PhD in Epidemiology from the Dornsife School of Public Health at Drexel University. He also received training in measures of physical activity for population health from the National Institute of Public Health in Mexico. He has experience using Geographic Information Systems (GIS) in geospatial analysis and multilevel analysis. He has conducted research on chronic diseases and urban environments but also related to political engagement with stakeholders. 
+Dr. Kevin Martinez-Folgar is a physician and epidemiologist with expertise in chronic disease epidemiology and prevention. He previously served as an Impact Scholar (Postdoctoral Research Fellow) with the Center for Global Health Equity at the University of Michigan. Dr. Martinez-Folgar trained as a physician in the University of San Carlos of Guatemala and holds a PhD in Epidemiology from the Dornsife School of Public Health at Drexel University. He also received training in measures of physical activity for population health from the National Institute of Public Health in Mexico. He has experience using Geographic Information Systems (GIS) in geospatial analysis and multilevel analysis. He has conducted research on chronic diseases and urban environments, including stakeholder and policy engagement.
 
-Dr. Martinez-Folgar has published 12 manuscripts in indexed journals, and his research has covered mortality and life expectancy across Latin American cities [4], healthcare access [1], or the health consequences of urban scaling. Also, Dr. Martinez-Folgar published the first description of excess mortality in Guatemala [3] and collaborated with other researchers to publish the first comparison of excess mortality across Latin American countries [2]. Dr Martinez-Folgar had a first-hand experience during his clinical training of how healthcare access limitations and the social determinants of health have shaped the health of populations, particularly in underserved populations.  This experience has created a strong motivation to do population health research and policy advocacy to lead change. In the future, he would seek a postdoctoral position which would prepare him for a prospective academic appointment where he can better develop his research agenda while training public health professionals.
+Dr. Martinez-Folgar has published 12 manuscripts in indexed journals, and his research has covered mortality and life expectancy across Latin American cities [4], healthcare access [1], and the health consequences of urban scaling. He published the first description of excess mortality in Guatemala [3] and collaborated with other researchers to publish the first comparison of excess mortality across Latin American countries [2]. First-hand clinical experience with healthcare access limitations and social determinants of health in underserved populations continues to shape his commitment to population health research and policy impact.
 
 
 ### References
@@ -46,5 +43,4 @@ Dr. Martinez-Folgar has published 12 manuscripts in indexed journals, and his re
 
 ### Complete List of Published Work in My Bibliography:
 https://www.ncbi.nlm.nih.gov/myncbi/kevin.martinez-folgar.1/bibliography/public/
-
 
