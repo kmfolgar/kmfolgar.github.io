@@ -1,25 +1,13 @@
-title: Kevin Martínez-Folgar, MD, PhD.
+title: Kevin Martínez-Folgar, MD, PhD
+name: Kevin Martínez-Folgar
+description: Physician-Epidemiologist focused on chronic disease epidemiology, urban health, and health equity.
 
 theme: jekyll-theme-minimal
-
-name: Kevin Martínez-Folgar, MD, PhD.
-description: Physician-Epidemiologist | Health Data Scientist | Health Policy | Global Health Equity
-
-avatar: https://avatars1.githubusercontent.com/u/26907179?s=460&u=e20a764d95a0a1f20a4be6f75a21ee2c387f2169&v=4
-
-footer-links:
-  dribbble:
-  email: kmfolgar@umich.edu
-  facebook:
-  flickr:
-  github: kmfolgar
-  instagram:
-  linkedin:
-  pinterest:
-  rss:
-  twitter: kmfolgar
-  stackoverflow:
-  youtube:
-  googleplus:
-
 url: https://kmfolgar.github.io
+
+email: kmfolgar@umich.edu
+github_username: kmfolgar
+twitter_username: kmfolgar
+orcid: 0000-0001-9262-298X
+google_scholar: https://scholar.google.com/citations?user=cAUPpBgAAAAJ
+cv_pdf: /cv.pdf
