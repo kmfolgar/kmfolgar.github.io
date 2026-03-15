@@ -1,108 +1,104 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
-    <meta name="description" content="{{ site.description }}">
-    <meta name="author" content="Kevin Martínez-Folgar">
-    <meta property="og:title" content="{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}">
-    <meta property="og:description" content="{{ site.description }}">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
-  </head>
-  <body>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title and page.title != "Home" %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="author" content="Kevin Martínez-Folgar">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}">
+  <meta property="og:description" content="{{ site.description }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta name="theme-color" content="#0B1622">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,700;0,800;1,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
+</head>
+<body>
 
-    <!-- Scroll progress bar -->
-    <div id="scroll-progress" aria-hidden="true"></div>
+  <div id="scroll-progress" aria-hidden="true"></div>
 
-    <header class="site-header" id="site-header">
-      <div class="shell site-header-inner">
-        <a class="brand" href="{{ '/' | relative_url }}">Kevin Martínez-Folgar</a>
-        <nav class="top-nav" aria-label="Primary navigation">
-          <a href="{{ '/' | relative_url }}">Home</a>
-          <a href="{{ '/about/' | relative_url }}">About</a>
-          <a href="{{ '/publications/' | relative_url }}">Publications</a>
-          <a href="{{ '/cv/' | relative_url }}">CV</a>
-          <a href="{{ '/appearances/' | relative_url }}">Media</a>
-        </nav>
+  <header class="site-header on-dark" id="site-header">
+    <div class="shell site-header-inner">
+      <a class="brand" href="{{ '/' | relative_url }}">Kevin Martínez-Folgar</a>
+      <nav class="top-nav" aria-label="Primary navigation">
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/about/' | relative_url }}">About</a>
+        <a href="{{ '/publications/' | relative_url }}">Publications</a>
+        <a href="{{ '/cv/' | relative_url }}">CV</a>
+        <a href="{{ '/appearances/' | relative_url }}">Media</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main-content">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="shell site-footer-inner">
+      <p class="footer-copy">&copy; {{ "now" | date: "%Y" }} Kevin Martínez-Folgar, MD, PhD</p>
+      <div class="footer-links">
+        <a href="{{ site.google_scholar }}" target="_blank" rel="noopener">Google Scholar</a>
+        <a href="https://orcid.org/{{ site.orcid }}" target="_blank" rel="noopener">ORCID</a>
+        <a href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener">GitHub</a>
       </div>
-    </header>
+    </div>
+  </footer>
 
-    <main class="shell main-content">
-      {{ content }}
-    </main>
+  <script>
+    // ── Scroll progress ───────────────────────────────────────
+    const bar    = document.getElementById('scroll-progress');
+    const header = document.getElementById('site-header');
 
-    <footer class="site-footer">
-      <div class="shell site-footer-inner">
-        <p>&copy; {{ "now" | date: "%Y" }} Kevin Martínez-Folgar, MD, PhD</p>
-        <div class="footer-links">
-          <a href="https://scholar.google.com/citations?user=cAUPpBgAAAAJ" target="_blank" rel="noopener">Google Scholar</a>
-          <a href="https://orcid.org/0000-0001-9262-298X" target="_blank" rel="noopener">ORCID</a>
-          <a href="https://github.com/kmfolgar" target="_blank" rel="noopener">GitHub</a>
-        </div>
-      </div>
-    </footer>
+    // Detect if homepage (has .opener section)
+    const hasOpener = !!document.querySelector('.opener');
 
-    <script>
-      // ── Scroll progress bar ────────────────────────────
-      const progressBar = document.getElementById('scroll-progress');
-      const header = document.getElementById('site-header');
+    function onScroll() {
+      const st  = window.scrollY;
+      const max = document.documentElement.scrollHeight - window.innerHeight;
+      bar.style.width = max > 0 ? (st / max * 100) + '%' : '0%';
 
-      function updateProgress() {
-        const scrollTop = window.scrollY;
-        const docHeight = document.documentElement.scrollHeight - window.innerHeight;
-        const pct = docHeight > 0 ? (scrollTop / docHeight) * 100 : 0;
-        progressBar.style.width = pct + '%';
-
-        // Header shadow on scroll
-        if (scrollTop > 10) {
-          header.classList.add('scrolled');
+      // Header theme switch
+      if (hasOpener) {
+        const openerH = document.querySelector('.opener')?.offsetHeight ?? 0;
+        if (st > openerH * 0.7) {
+          header.classList.replace('on-dark', 'on-light');
         } else {
-          header.classList.remove('scrolled');
+          header.classList.replace('on-light', 'on-dark');
         }
+      } else {
+        header.classList.replace('on-dark', 'on-light');
       }
+    }
 
-      window.addEventListener('scroll', updateProgress, { passive: true });
-      updateProgress();
+    window.addEventListener('scroll', onScroll, { passive: true });
+    onScroll(); // init
 
-      // ── Scroll-reveal animations ───────────────────────
-      const animEls = document.querySelectorAll('[data-animate]');
+    // ── Scroll-reveal ─────────────────────────────────────────
+    const animEls = document.querySelectorAll('[data-animate]');
+    if (animEls.length) {
+      const obs = new IntersectionObserver(entries => {
+        entries.forEach(e => {
+          if (e.isIntersecting) {
+            e.target.classList.add('visible');
+            obs.unobserve(e.target);
+          }
+        });
+      }, { threshold: 0.07, rootMargin: '0px 0px -40px 0px' });
+      animEls.forEach(el => obs.observe(el));
+    }
 
-      if (animEls.length > 0) {
-        const observer = new IntersectionObserver(
-          (entries) => {
-            entries.forEach(entry => {
-              if (entry.isIntersecting) {
-                entry.target.classList.add('visible');
-                observer.unobserve(entry.target);
-              }
-            });
-          },
-          { threshold: 0.08, rootMargin: '0px 0px -40px 0px' }
-        );
+    // ── Active nav ────────────────────────────────────────────
+    const cur = window.location.pathname.replace(/\/$/, '') || '/';
+    document.querySelectorAll('.top-nav a').forEach(a => {
+      const lp = new URL(a.href).pathname.replace(/\/$/, '') || '/';
+      if (lp === cur) a.classList.add('active');
+    });
+  </script>
 
-        animEls.forEach(el => observer.observe(el));
-      }
-
-      // ── Active nav link ────────────────────────────────
-      const navLinks = document.querySelectorAll('.top-nav a');
-      const currentPath = window.location.pathname.replace(/\/$/, '') || '/';
-
-      navLinks.forEach(link => {
-        const linkPath = new URL(link.href).pathname.replace(/\/$/, '') || '/';
-        if (linkPath === currentPath) {
-          link.style.color = 'var(--brand-strong)';
-          link.style.background = 'rgba(13, 107, 126, 0.08)';
-          link.style.borderColor = 'rgba(13, 107, 126, 0.2)';
-        }
-      });
-    </script>
-
-  </body>
+</body>
 </html>

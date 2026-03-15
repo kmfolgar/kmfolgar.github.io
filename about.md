@@ -4,19 +4,18 @@ layout: page
 permalink: /about/
 ---
 
-<div class="about-header">
-  <div class="about-bio">
-    <h1>Kevin Martínez-Folgar, MD, PhD</h1>
-    <p class="about-role">Postdoctoral Research Fellow · National Cancer Institute, NIH</p>
-  </div>
-</div>
+# Kevin Martínez-Folgar, MD, PhD
+<p class="page-role">Postdoctoral Research Fellow &nbsp;·&nbsp; National Cancer Institute, NIH</p>
 
 Dr. Kevin Martínez-Folgar is a physician-epidemiologist whose research examines how social, contextual, and
 biological factors shape cancer outcomes and disparities. He currently serves as a Postdoctoral Research Fellow at the
 **Metabolic Epidemiology Branch, Division of Cancer Epidemiology and Genetics (DCEG), National Cancer Institute (NCI), NIH**,
 where his work spans liver cancer (hepatocellular carcinoma), gastric cancer, *Helicobacter pylori*-related malignancies,
-proteomics, and cancer surveillance — with a focus on understanding the drivers of racial/ethnic disparities in cancer
+proteomics, and cancer surveillance — with a focus on understanding the drivers of racial and ethnic disparities in cancer
 incidence and outcomes across the United States.
+
+He strongly believes that by studying differences across populations we gain fundamental insights into cancer etiology,
+ultimately improving prevention and outcomes for everyone.
 
 Dr. Martínez-Folgar trained as a physician at the **University of San Carlos of Guatemala** and holds a
 **PhD in Epidemiology** from the Dornsife School of Public Health at **Drexel University**, where he was a
@@ -33,25 +32,24 @@ urban environments. He published the first quantitative description of excess mo
 the COVID-19 pandemic and contributed to the first multi-country comparison of excess mortality across
 Latin American nations.
 
-Dr. Martínez-Folgar applies epidemiologic methods including multilevel modeling, causal inference, geospatial
-analysis (GIS), and AI-assisted data workflows. He is committed to translating research findings into
-policy-relevant insights and communicating science to diverse audiences, including media, policymakers, and
-the general public. His clinical experience with healthcare access limitations in underserved Guatemalan
-communities continues to shape his commitment to population health equity.
+He applies epidemiologic methods including multilevel modeling, causal inference, geospatial analysis (GIS),
+and AI-assisted data workflows. He is passionate about translating research findings into policy-relevant
+insights and communicating science to diverse audiences — including media, policymakers, and the general public.
+A self-described data viz enthusiast, he uses R (ggplot2) and Python to tell stories with data.
 
 ---
 
-### Skills &amp; Tools
+## Skills & Tools
 
-- **Statistical computing:** R (primary), Python
-- **Geospatial analysis:** GIS, spatial econometrics
+- **Statistical computing:** R (primary — ggplot2, tidyverse, sf), Python
+- **Geospatial analysis:** GIS, spatial econometrics, mapping
 - **Methods:** Multilevel modeling, causal inference, mediation analysis, mortality estimation, longitudinal analysis
 - **Data workflows:** AI-assisted data capture and analysis pipelines, reproducible research
 - **Languages:** Spanish (native), English (fluent)
 
 ---
 
-### Contact &amp; Profiles
+## Contact & Profiles
 
 - **GitHub:** [github.com/kmfolgar](https://github.com/kmfolgar)
 - **ORCID:** [0000-0001-9262-298X](https://orcid.org/0000-0001-9262-298X)
@@ -60,7 +58,7 @@ communities continues to shape his commitment to population health equity.
 
 ---
 
-### A little more about me
+## A little more
 
 ```python
 from Guatemala import kevin_mf as ThinkOnData
@@ -72,4 +70,3 @@ roles = ["Dad", "Brother", "Son",
 for role in roles:
     print(f"I'm a {role}")
 ```
-

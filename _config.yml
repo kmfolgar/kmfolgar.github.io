@@ -2,7 +2,6 @@ title: Kevin Martínez-Folgar, MD, PhD
 name: Kevin Martínez-Folgar, MD, PhD
 description: Physician-Epidemiologist and cancer researcher at the National Cancer Institute (NCI), NIH. Research on cancer disparities, social determinants of health, and urban health.
 
-theme: jekyll-theme-minimal
 url: https://kmfolgar.github.io
 
 github_username: kmfolgar
@@ -10,3 +9,6 @@ twitter_username: kmfolgar
 orcid: 0000-0001-9262-298X
 google_scholar: https://scholar.google.com/citations?user=cAUPpBgAAAAJ
 contact_url: https://github.com/kmfolgar
+
+plugins:
+  - jekyll-seo-tag

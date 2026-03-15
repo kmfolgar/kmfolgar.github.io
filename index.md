@@ -3,119 +3,152 @@ layout: default
 title: Home
 ---
 
-<section class="hero" id="overview" data-animate>
-  <div class="hero-inner">
-    <div class="hero-text">
-      <p class="kicker">Physician-Epidemiologist · MD, PhD</p>
-      <h1>Kevin Martínez-Folgar</h1>
-      <p class="tagline">
-        Cancer epidemiologist focused on how social, contextual, and biological factors drive cancer disparities.
-        My work spans liver cancer, gastric cancer, <em>H. pylori</em>-related malignancies, proteomics, and cancer surveillance,
-        with a commitment to health equity across Latin American and U.S. populations.
-        I combine rigorous epidemiologic methods with AI-enabled data workflows to support policy-relevant public health research.
+<!-- ══ OPENER: The problem ══════════════════════════════════════ -->
+<section class="opener">
+  <div class="opener-inner shell">
+    <p class="opener-eyebrow">Population Health &nbsp;·&nbsp; Cancer Epidemiology &nbsp;·&nbsp; Health Equity</p>
+    <p class="opener-statement">Cancer doesn't<br>discriminate.</p>
+    <p class="opener-twist">Except it does.</p>
+    <p class="opener-explain">
+      Differences in who gets cancer, at what stage, and whether they survive are not noise —
+      they are signal. Studying those differences across populations is how we understand
+      cancer etiology and improve outcomes for everyone.
+    </p>
+  </div>
+  <div class="scroll-hint" aria-hidden="true">scroll</div>
+</section>
+
+<!-- ══ INTRO: Meet the researcher ══════════════════════════════ -->
+<section class="section intro-section" id="overview">
+  <div class="shell">
+    <div data-animate>
+      <span class="section-label">Meet the researcher</span>
+      <h2 class="intro-name">Kevin Martínez-Folgar, MD, PhD</h2>
+      <p class="intro-role">Postdoctoral Research Fellow &nbsp;·&nbsp; Metabolic Epidemiology Branch, Division of Cancer Epidemiology and Genetics &nbsp;·&nbsp; National Cancer Institute, NIH</p>
+      <p class="intro-bio">
+        I am a physician-epidemiologist from Guatemala working at the intersection of cancer biology,
+        social context, and place. My research focuses on liver cancer, gastric cancer,
+        <em>H. pylori</em>-related malignancies, proteomics, and cancer surveillance —
+        with a particular commitment to understanding disparities across racial, ethnic, and
+        socioeconomic groups in the United States and Latin America.
       </p>
-      <p class="hero-meta">
-        Postdoctoral Research Fellow · Metabolic Epidemiology Branch, Division of Cancer Epidemiology and Genetics · National Cancer Institute, NIH
+      <p class="intro-bio">
+        I trained as a physician at the University of San Carlos of Guatemala and earned my PhD
+        in Epidemiology at Drexel University. I use R, Python, GIS, and AI-assisted workflows
+        to tell stories with data that can inform public health policy.
       </p>
       <div class="actions">
-        <a class="button primary" href="{{ '/about/' | relative_url }}">About Me</a>
-        <a class="button" href="{{ '/cv/' | relative_url }}">CV Highlights</a>
-        <a class="button" href="{{ '/publications/' | relative_url }}">Publications</a>
-        <a class="button" href="{{ site.google_scholar }}">Google Scholar</a>
-        <a class="button" href="https://orcid.org/{{ site.orcid }}">ORCID</a>
-        <a class="button" href="https://github.com/{{ site.github_username }}">GitHub</a>
+        <a class="btn btn-primary" href="{{ '/about/' | relative_url }}">About Me</a>
+        <a class="btn" href="{{ '/publications/' | relative_url }}">Publications</a>
+        <a class="btn" href="{{ '/cv/' | relative_url }}">CV</a>
+        <a class="btn" href="{{ site.google_scholar }}" target="_blank" rel="noopener">Google Scholar</a>
+        <a class="btn" href="https://orcid.org/{{ site.orcid }}" target="_blank" rel="noopener">ORCID</a>
+        <a class="btn" href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener">GitHub</a>
       </div>
     </div>
   </div>
 </section>
 
-<section class="section" id="expertise" data-animate data-delay="1">
-  <h2>Research Interests</h2>
-  <ul class="chip-list">
-    <li>Cancer Epidemiology</li>
-    <li>Cancer Surveillance</li>
-    <li>Liver Cancer Disparities</li>
-    <li>Gastric Cancer</li>
-    <li><em>H. pylori</em> &amp; Infection-Related Cancers</li>
-    <li>Proteomics</li>
-    <li>Social Determinants of Health</li>
-    <li>Chronic Disease Epidemiology</li>
-    <li>Urban Health</li>
-    <li>Health Equity</li>
-    <li>Latin American Epidemiology</li>
-    <li>Health Data Science</li>
-    <li>AI-Assisted Data Analysis</li>
-    <li>Geospatial Analysis (GIS)</li>
-    <li>Multilevel Modeling</li>
-    <li>Causal Inference</li>
-  </ul>
-</section>
+<!-- ══ RESEARCH AREAS ════════════════════════════════════════════ -->
+<section class="section section-alt" id="expertise">
+  <div class="shell">
+    <div data-animate>
+      <span class="section-label">Research</span>
+      <h2 class="section-title">What I study</h2>
+      <p class="section-intro">
+        My work spans cancer epidemiology, social determinants, and molecular approaches —
+        unified by the belief that disparities are windows into disease mechanisms.
+      </p>
+    </div>
+    <div class="research-grid">
+      <div class="r-card" data-animate data-delay="1">
+        <span class="r-card-label">Oncology</span>
+        <h3>Liver Cancer &amp; GI Malignancies</h3>
+        <p>Racial and ethnic disparities in hepatocellular carcinoma incidence, stage at diagnosis, and survival. Gastric cancer epidemiology and the role of <em>H. pylori</em> infection as a modifiable risk factor.</p>
+      </div>
+      <div class="r-card" data-animate data-delay="2">
+        <span class="r-card-label">Surveillance</span>
+        <h3>Cancer Surveillance &amp; Proteomics</h3>
+        <p>Population-level monitoring of cancer burden trends across demographic and geographic groups. Integration of proteomic data to identify biological pathways underlying observed disparities.</p>
+      </div>
+      <div class="r-card" data-animate data-delay="3">
+        <span class="r-card-label">Social Epidemiology</span>
+        <h3>Social Determinants &amp; Urban Health</h3>
+        <p>Neighborhood-level socioeconomic deprivation, built environment, and healthcare access as drivers of cancer and chronic disease outcomes. Multi-city comparative studies across Latin American urban contexts.</p>
+      </div>
+      <div class="r-card" data-animate data-delay="4">
+        <span class="r-card-label">Methods</span>
+        <h3>Data Science &amp; AI in Epidemiology</h3>
+        <p>Reproducible analytic workflows in R and Python. Geospatial analysis (GIS), multilevel modeling, causal inference, and AI-assisted data capture pipelines for public health research.</p>
+      </div>
+    </div>
 
-<section class="section" data-animate data-delay="2">
-  <h2>Methods &amp; Skills</h2>
-  <div class="grid">
-    <article class="card">
-      <h3>Epidemiologic &amp; Quantitative Methods</h3>
-      <ul>
-        <li>Observational study design and causal inference</li>
-        <li>Multilevel and longitudinal analysis</li>
-        <li>Mortality and life expectancy estimation</li>
-        <li>Cross-city and cross-country comparative studies</li>
-        <li>Mediation and effect modification analysis</li>
-      </ul>
-    </article>
-    <article class="card">
-      <h3>Data, Tools &amp; Translation</h3>
-      <ul>
-        <li>R and Python for reproducible analytic workflows</li>
-        <li>AI-assisted data capture and analysis pipelines</li>
-        <li>Geospatial data integration and mapping (GIS)</li>
-        <li>Data visualization for technical and policy audiences</li>
-        <li>Stakeholder engagement and science communication</li>
-      </ul>
-    </article>
+    <ul class="chip-list" data-animate data-delay="5" style="margin-top:2rem;">
+      <li>Cancer Epidemiology</li>
+      <li>Cancer Surveillance</li>
+      <li>Liver Cancer</li>
+      <li>Gastric Cancer</li>
+      <li><em>H. pylori</em></li>
+      <li>Proteomics</li>
+      <li>Social Determinants of Health</li>
+      <li>Health Equity</li>
+      <li>Urban Health</li>
+      <li>Latin American Epidemiology</li>
+      <li>GIS &amp; Geospatial Analysis</li>
+      <li>Causal Inference</li>
+      <li>AI-Assisted Analysis</li>
+      <li>ggplot2 &amp; Data Visualization</li>
+    </ul>
   </div>
 </section>
 
-<section class="section" id="selected-work" data-animate data-delay="3">
-  <h2>Selected Publications</h2>
-  <ol class="work-list">
-    <li>
-      <strong>Martinez-Folgar K</strong> et al. <em>Excess mortality during the COVID-19 pandemic in Guatemala.</em>
-      <span class="journal-name">American Journal of Public Health</span> (2021).
-      <a href="https://doi.org/10.2105/AJPH.2021.306452">DOI: 10.2105/AJPH.2021.306452</a>
-    </li>
-    <li>
-      Bilal U, …, <strong>Martinez-Folgar K</strong>, et al. <em>Inequalities in life expectancy in six large Latin American cities from the SALURBAL study.</em>
-      <span class="journal-name">The Lancet Planetary Health</span> (2019).
-      <a href="https://doi.org/10.1016/S2542-5196(19)30235-9">DOI: 10.1016/S2542-5196(19)30235-9</a>
-    </li>
-    <li>
-      Mullachery P, …, <strong>Martinez-Folgar K</strong>, et al. <em>Mortality amenable to healthcare in Latin American cities.</em>
-      <span class="journal-name">International Journal of Epidemiology</span> (2022).
-      <a href="https://doi.org/10.1093/ije/dyab137">DOI: 10.1093/ije/dyab137</a>
-    </li>
-    <li>
-      Alfaro T, <strong>Martinez-Folgar K</strong>, Vives A, Bilal U. <em>Excess mortality during the COVID-19 pandemic in cities of Chile.</em>
-      <span class="journal-name">Journal of Urban Health</span> (2022).
-      <a href="https://doi.org/10.1007/s11524-022-00658-y">DOI: 10.1007/s11524-022-00658-y</a>
-    </li>
-  </ol>
-  <p class="context-note">
-    Full publication list: <a href="{{ '/publications/' | relative_url }}">publications page</a> · <a href="{{ site.google_scholar }}">Google Scholar profile</a>
-  </p>
-</section>
-
-<section class="section" id="contact" data-animate data-delay="4">
-  <h2>Background</h2>
-  <p>
-    I trained as a physician at the <strong>University of San Carlos of Guatemala</strong> and earned a
-    <strong>PhD in Epidemiology</strong> at Drexel University. My work bridges rigorous quantitative methods with
-    actionable public health questions, with a commitment to reducing health inequities in underserved populations.
-    Prior to my current role, I served as an Impact Scholar (Postdoctoral Research Fellow) at the
-    Center for Global Health Equity, University of Michigan.
-  </p>
-  <p>
-    <a href="{{ '/about/' | relative_url }}">Read full biography →</a>
-  </p>
+<!-- ══ SELECTED PUBLICATIONS ════════════════════════════════════ -->
+<section class="section" id="selected-work">
+  <div class="shell">
+    <div data-animate>
+      <span class="section-label">Selected work</span>
+      <h2 class="section-title">Publications</h2>
+    </div>
+    <ol class="pub-list">
+      <li class="pub-item" data-animate data-delay="1">
+        <span class="pub-num">01</span>
+        <div>
+          <p class="pub-title">Excess mortality during the COVID-19 pandemic in Guatemala</p>
+          <p class="pub-authors"><strong>Martinez-Folgar K</strong>, Alburez-Gutierrez D, Paniagua-Avila A, Ramirez-Zea M, Bilal U</p>
+          <p class="pub-journal">American Journal of Public Health, 2021</p>
+          <a class="pub-doi" href="https://doi.org/10.2105/AJPH.2021.306452" target="_blank" rel="noopener">DOI: 10.2105/AJPH.2021.306452 ↗</a>
+        </div>
+      </li>
+      <li class="pub-item" data-animate data-delay="2">
+        <span class="pub-num">02</span>
+        <div>
+          <p class="pub-title">Inequalities in life expectancy in six large Latin American cities — SALURBAL study</p>
+          <p class="pub-authors">Bilal U, …, <strong>Martinez-Folgar K</strong>, et al.</p>
+          <p class="pub-journal">The Lancet Planetary Health, 2019</p>
+          <a class="pub-doi" href="https://doi.org/10.1016/S2542-5196(19)30235-9" target="_blank" rel="noopener">DOI: 10.1016/S2542-5196(19)30235-9 ↗</a>
+        </div>
+      </li>
+      <li class="pub-item" data-animate data-delay="3">
+        <span class="pub-num">03</span>
+        <div>
+          <p class="pub-title">Mortality amenable to healthcare in Latin American cities</p>
+          <p class="pub-authors">Mullachery P, …, <strong>Martinez-Folgar K</strong>, et al.</p>
+          <p class="pub-journal">International Journal of Epidemiology, 2022</p>
+          <a class="pub-doi" href="https://doi.org/10.1093/ije/dyab137" target="_blank" rel="noopener">DOI: 10.1093/ije/dyab137 ↗</a>
+        </div>
+      </li>
+      <li class="pub-item" data-animate data-delay="4">
+        <span class="pub-num">04</span>
+        <div>
+          <p class="pub-title">Excess mortality during the COVID-19 pandemic in cities of Chile</p>
+          <p class="pub-authors">Alfaro T, <strong>Martinez-Folgar K</strong>, Vives A, Bilal U</p>
+          <p class="pub-journal">Journal of Urban Health, 2022</p>
+          <a class="pub-doi" href="https://doi.org/10.1007/s11524-022-00658-y" target="_blank" rel="noopener">DOI: 10.1007/s11524-022-00658-y ↗</a>
+        </div>
+      </li>
+    </ol>
+    <p class="pub-more" data-animate>
+      Full list on <a href="{{ '/publications/' | relative_url }}">publications page</a> and <a href="{{ site.google_scholar }}" target="_blank" rel="noopener">Google Scholar ↗</a>
+    </p>
+  </div>
 </section>
