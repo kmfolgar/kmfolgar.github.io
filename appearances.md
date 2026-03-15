@@ -11,26 +11,44 @@ by major media outlets across Latin America and internationally.
 
 ## Documentaries
 
-**2023 — "Salud y Ciudad"** *(Interamerican Development Bank)*
-A documentary on urban health and the relationship between cities and population wellbeing.
+**2023 — "Salud y Ciudad"** *(Interamerican Development Bank / SALURBAL)*
+
+A documentary series on urban health and how your zip code shapes your health more than your genetic code.
+
+- [Watch on YouTube ▶](https://www.youtube.com/watch?v=aUM9cxbz_-s)
 - [IDB Blog article](https://blogs.iadb.org/ciudades-sostenibles/es/ciudades-saludables-codigo-postal-salud-codigo-genetico/)
 - [Drexel University Toolkit](https://drexel.edu/lac/capacity-building/toolkit/)
-- [Watch on YouTube](https://www.youtube.com/watch?v=aUM9cxbz_-s)
 
 ---
 
-## Television
+## Video & Television
 
 **2022 — Guatevision**
 - [Semáforo covid-19 vuelve a sumar tres municipios en alerta verde](https://www.guatevision.com/nacionales/semaforo-covid-19-vuelve-a-sumar-tres-municipios-en-alerta-verde)
 
-**2020 — Guatevision**
-- [Noticiero Guatevision, 6 pm — December 11, 2020 (min 0:30)](https://www.youtube.com/watch?v=5tz2TT5IX54)
-- [Noticiero Guatevision, 1 pm — December 11, 2020 (min 7:20)](https://www.youtube.com/watch?v=vn4xpwV5NW4)
+**2021 — Guatevision** *(Excess mortality study coverage)*
+- [Estudio revela cómo fue el exceso de mortalidad en 2020 en Guatemala](https://www.guatevision.com/nacionales/estudio-revela-como-fue-el-exceso-de-mortalidad-en-2020-en-guatemala-por-el-covid-19-y-que-ha-incidido-en-el-subregistro-breaking)
+
+**2020 — Guatevision** *(Noticiero, December 11, 2020)*
+- [Noticiero Guatevision, 6 pm — December 11, 2020 ▶](https://www.youtube.com/watch?v=5tz2TT5IX54) *(min 0:30)*
+- [Noticiero Guatevision, 1 pm — December 11, 2020 ▶](https://www.youtube.com/watch?v=vn4xpwV5NW4) *(min 7:20)*
+
+**2020 — Plaza Pública** *(Video interview, COVID-19)*
+- [Entrevista: COVID-19 y epidemiología en Guatemala ▶](https://www.facebook.com/PlazaPublicaGT/videos/entrevista-kevin-mart%C3%ADnez-folgar/2395543887415798/)
 
 ---
 
-## Print &amp; Digital Media
+## Radio & Podcasts
+
+**2021 — Emisoras Unidas, "A Primera Hora"**
+
+Interview about the first quantitative description of excess mortality in Guatemala during the COVID-19 pandemic, published in the *American Journal of Public Health*.
+
+- [Estudio evidenció un exceso de 8 mil muertes durante 2020 en Guatemala](https://emisorasunidas.com/2021/09/24/estudio-covid-19-muertes-2020-guatemala/)
+
+---
+
+## Print & Digital Media
 
 **2023**
 
@@ -46,8 +64,10 @@ A documentary on urban health and the relationship between cities and population
 **2021**
 
 - **New York Times** — [723 Epidemiologists on When and How the U.S. Can Fully Return to Normal](https://www.nytimes.com/2021/05/15/upshot/epidemiologists-covid-return-normal.html)
+- **Prensa Libre** — [Estudio revela el exceso de mortalidad en 2020 en Guatemala por el covid-19](https://www.prensalibre.com/guatemala/comunitario/estudio-revela-como-fue-el-exceso-de-mortalidad-en-2020-en-guatemala-por-el-covid-19-y-senala-retraso-en-el-registro-de-defunciones-breaking/)
 - **Prensa Libre** — [74% de estudiantes aún no pueden vacunarse](https://www.prensalibre.com/guatemala/comunitario/74-de-estudiantes-aun-no-pueden-vacunarse-son-los-ninos-que-cursan-primaria-y-preprimaria/)
 - **Prensa Libre** — [40% de guatemaltecos estaría fuera del plan de vacunación](https://www.prensalibre.com/guatemala/comunitario/40-de-guatemaltecos-estaria-fuera-del-plan-de-vacunacion-contra-el-covid-19-las-desigualdades-que-persisten-en-el-pais-son-parte-del-problema/)
+- **Emisoras Unidas** — [Estudio evidenció un exceso de 8 mil muertes durante 2020 en Guatemala](https://emisorasunidas.com/2021/09/24/estudio-covid-19-muertes-2020-guatemala/)
 - **Ojoconmipisto** — [El poder local comunitario ya se tiene, el problema será la logística de la vacunación](https://www.ojoconmipisto.com/el-poder-local-comunitario-ya-se-tiene-el-problema-sera-la-logistica-de-la-vacunacion/)
 
 **2020**
