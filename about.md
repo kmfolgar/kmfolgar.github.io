@@ -8,34 +8,34 @@ permalink: /about/
 <p class="page-role">Postdoctoral Research Fellow &nbsp;·&nbsp; National Cancer Institute, NIH</p>
 
 Dr. Kevin Martínez-Folgar is a physician-epidemiologist whose research examines how social, contextual, and
-biological factors shape cancer outcomes and disparities. He currently serves as a Postdoctoral Research Fellow at the
-**Metabolic Epidemiology Branch, Division of Cancer Epidemiology and Genetics (DCEG), National Cancer Institute (NCI), NIH**,
-where his work spans liver cancer (hepatocellular carcinoma), gastric cancer, *Helicobacter pylori*-related malignancies,
-proteomics, and cancer surveillance — with a focus on understanding the drivers of racial and ethnic disparities in cancer
-incidence and outcomes across the United States.
+biological factors shape cancer outcomes and disparities. He completed postdoctoral training at the
+**University of Michigan** and the **US National Cancer Institute (NCI), NIH** — specifically as a
+Postdoctoral Research Fellow at the Metabolic Epidemiology Branch, Division of Cancer Epidemiology and
+Genetics (DCEG) — where his work spanned liver cancer (hepatocellular carcinoma), gastric cancer,
+*Helicobacter pylori*-related malignancies, proteomics, and cancer surveillance.
 
-He strongly believes that by studying differences across populations we gain fundamental insights into cancer etiology,
-ultimately improving prevention and outcomes for everyone.
+He believes that differences in who gets cancer, at what stage, and whether they survive are not random —
+and that studying those differences across populations is fundamental to understanding cancer etiology
+and improving outcomes for everyone.
+
+Looking ahead, Dr. Martínez-Folgar is expanding his work to global cancer epidemiology, with a particular
+focus on **pediatric cancer surveillance** and **molecular epidemiology at a global scale** — broadening
+the geographic scope of his research well beyond the United States and Latin America.
 
 Dr. Martínez-Folgar trained as a physician at the **University of San Carlos of Guatemala** and holds a
 **PhD in Epidemiology** from the Dornsife School of Public Health at **Drexel University**, where he was a
-Graduate Research Fellow at the Urban Health Collaborative. He previously served as an **Impact Scholar
-(Postdoctoral Research Fellow)** at the Center for Global Health Equity, **University of Michigan** (2023–2025).
-He also received training in measures of physical activity for population health from the National Institute
-of Public Health in Mexico, and conducted early career research at the INCAP Research Center for the Prevention
-of Chronic Diseases (CIIPEC) in Guatemala City.
+Graduate Research Fellow at the Urban Health Collaborative. He also received training in measures of physical
+activity for population health from the National Institute of Public Health in Mexico, and conducted early
+career research at the INCAP Research Center for the Prevention of Chronic Diseases (CIIPEC) in Guatemala City.
 
-His research spans cancer epidemiology, chronic disease, urban health, and health equity, with a geographic
-focus on both U.S. populations and Latin American cities. He has led and co-authored work on mortality and
-life expectancy inequalities, COVID-19 excess mortality, healthcare access, and the health consequences of
-urban environments. He published the first quantitative description of excess mortality in Guatemala during
-the COVID-19 pandemic and contributed to the first multi-country comparison of excess mortality across
-Latin American nations.
+His research portfolio includes work on mortality and life expectancy inequalities, COVID-19 excess mortality,
+healthcare access, and urban determinants of health across Latin American cities. He published the first
+quantitative description of excess mortality in Guatemala during the COVID-19 pandemic and contributed to the
+first multi-country comparison of excess mortality across Latin American nations.
 
-He applies epidemiologic methods including multilevel modeling, causal inference, geospatial analysis (GIS),
-and AI-assisted data workflows. He is passionate about translating research findings into policy-relevant
-insights and communicating science to diverse audiences — including media, policymakers, and the general public.
-A self-described data viz enthusiast, he uses R (ggplot2) and Python to tell stories with data.
+He applies multilevel modeling, causal inference, geospatial analysis (GIS), and AI-assisted data workflows.
+A data viz enthusiast, he uses R (ggplot2) and Python to tell stories with data and communicate science to
+researchers, policymakers, and the general public alike.
 
 ---
 

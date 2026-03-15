@@ -7,12 +7,12 @@ title: Home
 <section class="opener">
   <div class="opener-inner shell">
     <p class="opener-eyebrow">Population Health &nbsp;·&nbsp; Cancer Epidemiology &nbsp;·&nbsp; Health Equity</p>
-    <p class="opener-statement">Cancer doesn't<br>discriminate.</p>
-    <p class="opener-twist">Except it does.</p>
+    <p class="opener-statement">"Cancer doesn't<br>discriminate.."</p>
+    <p class="opener-twist">But we know it does.</p>
     <p class="opener-explain">
-      Differences in who gets cancer, at what stage, and whether they survive are not noise —
-      they are signal. Studying those differences across populations is how we understand
-      cancer etiology and improve outcomes for everyone.
+      Differences in who gets cancer, at what stage, and whether they survive are not random.
+      Studying those differences across populations helps us understand cancer etiology
+      and how we can improve outcomes for everyone.
     </p>
   </div>
   <div class="scroll-hint" aria-hidden="true">scroll</div>
@@ -29,13 +29,17 @@ title: Home
         I am a physician-epidemiologist from Guatemala working at the intersection of cancer biology,
         social context, and place. My research focuses on liver cancer, gastric cancer,
         <em>H. pylori</em>-related malignancies, proteomics, and cancer surveillance —
-        with a particular commitment to understanding disparities across racial, ethnic, and
-        socioeconomic groups in the United States and Latin America.
+        with a commitment to understanding disparities across racial, ethnic, and socioeconomic groups.
+        While my experience to date spans the United States and Latin America, I am expanding toward
+        global cancer epidemiology, with a growing focus on pediatric cancer surveillance and
+        molecular epidemiology at a global scale.
       </p>
       <p class="intro-bio">
-        I trained as a physician at the University of San Carlos of Guatemala and earned my PhD
-        in Epidemiology at Drexel University. I use R, Python, GIS, and AI-assisted workflows
-        to tell stories with data that can inform public health policy.
+        I was trained as a physician at the University of San Carlos of Guatemala, earned my PhD
+        in Epidemiology at Drexel University, and completed postdoctoral training at the
+        University of Michigan and the US National Cancer Institute (NCI), NIH.
+        I use R, Python, GIS, and AI-assisted workflows to tell stories with data
+        that can inform public health policy.
       </p>
       <div class="actions">
         <a class="btn btn-primary" href="{{ '/about/' | relative_url }}">About Me</a>
