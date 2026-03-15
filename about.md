@@ -1,46 +1,75 @@
 ---
-title: "About me"
+title: "About"
 layout: page
 permalink: /about/
 ---
 
+<div class="about-header">
+  <div class="about-bio">
+    <h1>Kevin Martínez-Folgar, MD, PhD</h1>
+    <p class="about-role">Postdoctoral Research Fellow · National Cancer Institute, NIH</p>
+  </div>
+</div>
+
+Dr. Kevin Martínez-Folgar is a physician-epidemiologist whose research examines how social, contextual, and
+biological factors shape cancer outcomes and disparities. He currently serves as a Postdoctoral Research Fellow at the
+**Metabolic Epidemiology Branch, Division of Cancer Epidemiology and Genetics (DCEG), National Cancer Institute (NCI), NIH**,
+where his work spans liver cancer (hepatocellular carcinoma), gastric cancer, *Helicobacter pylori*-related malignancies,
+proteomics, and cancer surveillance — with a focus on understanding the drivers of racial/ethnic disparities in cancer
+incidence and outcomes across the United States.
+
+Dr. Martínez-Folgar trained as a physician at the **University of San Carlos of Guatemala** and holds a
+**PhD in Epidemiology** from the Dornsife School of Public Health at **Drexel University**, where he was a
+Graduate Research Fellow at the Urban Health Collaborative. He previously served as an **Impact Scholar
+(Postdoctoral Research Fellow)** at the Center for Global Health Equity, **University of Michigan** (2023–2025).
+He also received training in measures of physical activity for population health from the National Institute
+of Public Health in Mexico, and conducted early career research at the INCAP Research Center for the Prevention
+of Chronic Diseases (CIIPEC) in Guatemala City.
+
+His research spans cancer epidemiology, chronic disease, urban health, and health equity, with a geographic
+focus on both U.S. populations and Latin American cities. He has led and co-authored work on mortality and
+life expectancy inequalities, COVID-19 excess mortality, healthcare access, and the health consequences of
+urban environments. He published the first quantitative description of excess mortality in Guatemala during
+the COVID-19 pandemic and contributed to the first multi-country comparison of excess mortality across
+Latin American nations.
+
+Dr. Martínez-Folgar applies epidemiologic methods including multilevel modeling, causal inference, geospatial
+analysis (GIS), and AI-assisted data workflows. He is committed to translating research findings into
+policy-relevant insights and communicating science to diverse audiences, including media, policymakers, and
+the general public. His clinical experience with healthcare access limitations in underserved Guatemalan
+communities continues to shape his commitment to population health equity.
+
+---
+
+### Skills &amp; Tools
+
+- **Statistical computing:** R (primary), Python
+- **Geospatial analysis:** GIS, spatial econometrics
+- **Methods:** Multilevel modeling, causal inference, mediation analysis, mortality estimation, longitudinal analysis
+- **Data workflows:** AI-assisted data capture and analysis pipelines, reproducible research
+- **Languages:** Spanish (native), English (fluent)
+
+---
+
+### Contact &amp; Profiles
+
+- **GitHub:** [github.com/kmfolgar](https://github.com/kmfolgar)
+- **ORCID:** [0000-0001-9262-298X](https://orcid.org/0000-0001-9262-298X)
+- **Google Scholar:** [View profile](https://scholar.google.com/citations?user=cAUPpBgAAAAJ)
+- **PubMed bibliography:** [View on NCBI](https://www.ncbi.nlm.nih.gov/myncbi/kevin.martinez-folgar.1/bibliography/public/)
+
+---
+
+### A little more about me
+
 ```python
+from Guatemala import kevin_mf as ThinkOnData
 
-#!/usr/bin/python3
+roles = ["Dad", "Brother", "Son",
+         "Physician", "Epidemiologist",
+         "Coder", "Researcher"]
 
-from Guatemala import kevin.mf as ThinkOnData
-
-list1 = ["Dad", "Brother", "Son", 
-		 "Researcher", "Coder", "Epidemiologist"] 
-
-for x in list1:
-
-    print("I'm a " + x)
-    
+for role in roles:
+    print(f"I'm a {role}")
 ```
-
-### Contact 
-
-**Kevin Martinez-Folgar, MD, PhD.**   
-kmfolgar [at] umich [dot] edu       
-Former Impact Scholar (University of Michigan)    
-
-
-Dr. Kevin Martinez-Folgar is a physician and epidemiologist with expertise in chronic disease epidemiology and prevention. He previously served as an Impact Scholar (Postdoctoral Research Fellow) with the Center for Global Health Equity at the University of Michigan. Dr. Martinez-Folgar trained as a physician in the University of San Carlos of Guatemala and holds a PhD in Epidemiology from the Dornsife School of Public Health at Drexel University. He also received training in measures of physical activity for population health from the National Institute of Public Health in Mexico. He has experience using Geographic Information Systems (GIS) in geospatial analysis and multilevel analysis. He has conducted research on chronic diseases and urban environments, including stakeholder and policy engagement.
-
-Dr. Martinez-Folgar has published 12 manuscripts in indexed journals, and his research has covered mortality and life expectancy across Latin American cities [4], healthcare access [1], and the health consequences of urban scaling. He published the first description of excess mortality in Guatemala [3] and collaborated with other researchers to publish the first comparison of excess mortality across Latin American countries [2]. First-hand clinical experience with healthcare access limitations and social determinants of health in underserved populations continues to shape his commitment to population health research and policy impact.
-
-
-### References
-1.	Mullachery P, Rodriguez D, Miranda J, López-Olmedo N, Martinez-Folgar K, Barreto M, Diez Roux A, Bilal U. Mortality amenable to healthcare in Latin American cities: a cross-sectional study examining between-country variation in amenable mortality and the role of urban metrics. International Journal of Epidemiology. 2022 February 01; 51(1):303-313. Available from: https://academic.oup.com/ije/article/51/1/303/6335778 DOI: 10.1093/ije/dyab137
-
-2.	Lima E, Vilela E, Peralta A, Rocha M, Queiroz B, Gonzaga M, Piscoya-Díaz M, Martinez-Folgar K, García-Guerrero V, Freire F. Investigating regional excess mortality during 2020 COVID-19 pandemic in selected Latin American countries. Genus. 2021 November 03; 77(1):-. Available from: https://genus.springeropen.com/articles/10.1186/s41118-021-00139-1 DOI: 10.1186/s41118-021-00139-1
-
-3.	Martinez-Folgar K, Alburez-Gutierrez D, Paniagua-Avila A, Ramirez-Zea M, Bilal U. Excess Mortality During the COVID-19 Pandemic in Guatemala. American Journal of Public Health. 2021 October; 111(10):1839-1846. Available from: https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2021.306452 DOI: 10.2105/AJPH.2021.306452
-
-4.	Bilal U, Alazraqui M, Caiaffa W, Lopez-Olmedo N, Martinez-Folgar K, Miranda J, Rodriguez D, Vives A, Diez-Roux A. Inequalities in life expectancy in six large Latin American cities from the SALURBAL study: an ecological analysis. The Lancet Planetary Health. 2019 December; 3(12):e503-e510. Available from: https://linkinghub.elsevier.com/retrieve/pii/S2542519619302359 DOI: 10.1016/S2542-5196(19)30235-9
-
-
-### Complete List of Published Work in My Bibliography:
-https://www.ncbi.nlm.nih.gov/myncbi/kevin.martinez-folgar.1/bibliography/public/
 

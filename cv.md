@@ -4,54 +4,99 @@ layout: page
 permalink: /cv/
 ---
 
-Updated: March 2026.
+*Updated: March 2026.*
 
-# Kevin Martinez-Folgar, MD, PhD
+# Kevin Martínez-Folgar, MD, PhD
 
-## Profile
-Physician-epidemiologist with research focused on cancer epidemiology, chronic disease, urban health, and health equity. Work combines epidemiologic methods, geospatial approaches, and AI-enabled data workflows for public health research and decision support.
+**Physician-epidemiologist** with research focused on cancer epidemiology, social determinants of health,
+urban health, and health equity. Work combines rigorous epidemiologic methods, geospatial approaches, and
+AI-enabled data workflows for policy-relevant public health research.
 
-Contact: [Direct message on GitHub](https://github.com/kmfolgar)
+**Contact:** [GitHub](https://github.com/kmfolgar) · [ORCID](https://orcid.org/0000-0001-9262-298X) · [Google Scholar](https://scholar.google.com/citations?user=cAUPpBgAAAAJ)
 
-## Education and Training
-- **Postdoctoral Research Fellow (Impact Scholar), 2023-2025**  
-  Center for Global Health Equity, University of Michigan
-- **PhD in Epidemiology, 2019-2023**  
-  Dornsife School of Public Health, Drexel University
-- **MD, 2010-2016**  
-  University of San Carlos of Guatemala
+---
 
-## Selected Professional Experience
-- **Impact Scholar (Postdoctoral Research Fellow), 2023-2025**  
-  Center for Global Health Equity, University of Michigan
-- **Graduate Research Fellow, 2019-2023**  
-  Urban Health Collaborative, Drexel University
-- **Researcher, 2017-2019**  
-  INCAP Research Center for Prevention of Chronic Diseases (CIIPEC)
+## Education &amp; Training
 
-## Core Methods and Skills
-- Cancer and chronic disease epidemiology
+**Postdoctoral Research Fellow, 2025–Present**
+Metabolic Epidemiology Branch, Division of Cancer Epidemiology and Genetics
+National Cancer Institute (NCI), NIH
+
+**Impact Scholar (Postdoctoral Research Fellow), 2023–2025**
+Center for Global Health Equity, University of Michigan
+
+**PhD in Epidemiology, 2019–2023**
+Dornsife School of Public Health, Drexel University
+
+**MD (Physician), 2010–2016**
+University of San Carlos of Guatemala
+
+---
+
+## Professional Experience
+
+**Postdoctoral Research Fellow, 2025–Present**
+Metabolic Epidemiology Branch, Division of Cancer Epidemiology and Genetics, NCI/NIH
+*Research on social and contextual determinants of liver cancer disparities in U.S. populations.*
+
+**Impact Scholar (Postdoctoral Research Fellow), 2023–2025**
+Center for Global Health Equity, University of Michigan
+*Research on cancer and chronic disease disparities, health equity in Latin American and U.S. contexts.*
+
+**Graduate Research Fellow, 2019–2023**
+Urban Health Collaborative, Drexel University
+*SALURBAL study — multilevel analyses of urban environments and health outcomes across Latin American cities.*
+
+**Researcher, 2017–2019**
+INCAP Research Center for Prevention of Chronic Diseases (CIIPEC), Guatemala City
+*Stakeholder engagement, chronic disease prevention, hypertension control programs.*
+
+---
+
+## Core Methods &amp; Skills
+
+- Cancer epidemiology and cancer surveillance
+- Liver cancer and gastric cancer disparities
+- *Helicobacter pylori*-related malignancies
+- Proteomics and molecular epidemiology
 - Social epidemiology and urban health
 - Multilevel and longitudinal analysis
-- Mortality and life expectancy analysis
+- Mortality and life expectancy estimation
 - Geospatial analysis (GIS)
-- R and Python workflows
+- Causal inference and mediation analysis
+- R and Python (reproducible analytic workflows)
 - AI-assisted data capture and analysis
-- Data visualization and policy communication
+- Data visualization and science communication
+
+---
 
 ## Selected Publications
-- Mullachery P, Rodriguez D, Miranda J, Lopez-Olmedo N, Martinez-Folgar K, et al. *Mortality amenable to healthcare in Latin American cities*. **International Journal of Epidemiology** (2022). DOI: [10.1093/ije/dyab137](https://doi.org/10.1093/ije/dyab137)
-- Martinez-Folgar K, Alburez-Gutierrez D, Paniagua-Avila A, Ramirez-Zea M, Bilal U. *Excess mortality during the COVID-19 pandemic in Guatemala*. **American Journal of Public Health** (2021). DOI: [10.2105/AJPH.2021.306452](https://doi.org/10.2105/AJPH.2021.306452)
-- Bilal U, Alazraqui M, Caiaffa W, Lopez-Olmedo N, Martinez-Folgar K, et al. *Inequalities in life expectancy in six large Latin American cities*. **The Lancet Planetary Health** (2019). DOI: [10.1016/S2542-5196(19)30235-9](https://doi.org/10.1016/S2542-5196(19)30235-9)
-- Alfaro T, Martinez-Folgar K, Vives A, Bilal U. *Excess mortality during the COVID-19 pandemic in cities of Chile*. **Journal of Urban Health** (2022). DOI: [10.1007/s11524-022-00658-y](https://doi.org/10.1007/s11524-022-00658-y)
 
-## Selected Funding
-- **Principal Investigator (2024):** Race and Ethnic Disparities in Health Outcomes in Guatemala ($5,000)
-- **Principal Investigator (2023):** Geographic Capital and Health Disparities in Chronic Diseases ($7,000)
+- **Martinez-Folgar K**, Alburez-Gutierrez D, Paniagua-Avila A, Ramirez-Zea M, Bilal U. *Excess mortality during the COVID-19 pandemic in Guatemala.* **American Journal of Public Health** (2021). DOI: [10.2105/AJPH.2021.306452](https://doi.org/10.2105/AJPH.2021.306452)
+
+- Bilal U, Alazraqui M, Caiaffa W, Lopez-Olmedo N, **Martinez-Folgar K**, et al. *Inequalities in life expectancy in six large Latin American cities from the SALURBAL study.* **The Lancet Planetary Health** (2019). DOI: [10.1016/S2542-5196(19)30235-9](https://doi.org/10.1016/S2542-5196(19)30235-9)
+
+- Mullachery P, Rodriguez D, Miranda J, Lopez-Olmedo N, **Martinez-Folgar K**, et al. *Mortality amenable to healthcare in Latin American cities.* **International Journal of Epidemiology** (2022). DOI: [10.1093/ije/dyab137](https://doi.org/10.1093/ije/dyab137)
+
+- Alfaro T, **Martinez-Folgar K**, Vives A, Bilal U. *Excess mortality during the COVID-19 pandemic in cities of Chile.* **Journal of Urban Health** (2022). DOI: [10.1007/s11524-022-00658-y](https://doi.org/10.1007/s11524-022-00658-y)
+
+- Lima E, Vilela E, Peralta A, …, **Martinez-Folgar K**, et al. *Investigating regional excess mortality during 2020 COVID-19 pandemic in selected Latin American countries.* **Genus** (2021). DOI: [10.1186/s41118-021-00139-1](https://doi.org/10.1186/s41118-021-00139-1)
+
+For a complete and up-to-date list, see [Google Scholar](https://scholar.google.com/citations?user=cAUPpBgAAAAJ) or the [publications page](/publications/).
+
+---
+
+## Selected Grants &amp; Funding
+
+**Principal Investigator (2024):** Race and Ethnic Disparities in Health Outcomes in Guatemala ($5,000)
+
+**Principal Investigator (2023):** Geographic Capital and Health Disparities in Chronic Diseases ($7,000)
+
+---
 
 ## Professional Links
-- [Google Scholar](https://scholar.google.com/citations?user=cAUPpBgAAAAJ)
-- [ORCID](https://orcid.org/0000-0001-9262-298X)
-- [GitHub](https://github.com/kmfolgar)
 
-For a complete publication list, see Google Scholar.
+- [Google Scholar](https://scholar.google.com/citations?user=cAUPpBgAAAAJ)
+- [ORCID: 0000-0001-9262-298X](https://orcid.org/0000-0001-9262-298X)
+- [GitHub: kmfolgar](https://github.com/kmfolgar)
+- [PubMed bibliography](https://www.ncbi.nlm.nih.gov/myncbi/kevin.martinez-folgar.1/bibliography/public/)
