@@ -19,6 +19,10 @@ Geospatial analysis · AI in public health research
 
 ## Peer-Reviewed Journal Articles
 
+**2025**
+
+- Alfaro T, **Martinez-Folgar K**, Bilal U, et al. *Variability and social patterning of cancer mortality in 343 Latin American cities: an ecological study.* **The Lancet Global Health** (2025). DOI: [10.1016/S2214-109X(24)00446-7](https://doi.org/10.1016/S2214-109X(24)00446-7)
+
 **2024**
 
 - Diez Roux AV, …, **Martinez-Folgar K**, et al. *Research translation to promote urban health in Latin America: The SALURBAL experience.* **Journal of Urban Health** (2024). DOI: [10.1007/s11524-024-00877-5](https://doi.org/10.1007/s11524-024-00877-5)
@@ -30,6 +34,8 @@ Geospatial analysis · AI in public health research
 - Alfaro T, **Martinez-Folgar K**, Vives A, Bilal U. *Excess mortality during the COVID-19 pandemic in cities of Chile: magnitude, inequalities, and urban determinants.* **Journal of Urban Health** (2022). DOI: [10.1007/s11524-022-00658-y](https://doi.org/10.1007/s11524-022-00658-y)
 
 **2021**
+
+- Bilal U, Alfaro T, **Martinez-Folgar K**, et al. *Scaling of mortality in 742 metropolitan areas of the Americas.* **Science Advances** 7(50):eabl6325 (2021). DOI: [10.1126/sciadv.abl6325](https://doi.org/10.1126/sciadv.abl6325)
 
 - **Martinez-Folgar K**, Alburez-Gutierrez D, Paniagua-Avila A, Ramirez-Zea M, Bilal U. *Excess mortality during the COVID-19 pandemic in Guatemala.* **American Journal of Public Health** 111(10):1839–1846. DOI: [10.2105/AJPH.2021.306452](https://doi.org/10.2105/AJPH.2021.306452)
 

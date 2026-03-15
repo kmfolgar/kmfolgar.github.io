@@ -144,10 +144,10 @@ title: Home
       <li class="pub-item" data-animate data-delay="4">
         <span class="pub-num">04</span>
         <div>
-          <p class="pub-title">Excess mortality during the COVID-19 pandemic in cities of Chile</p>
-          <p class="pub-authors">Alfaro T, <strong>Martinez-Folgar K</strong>, Vives A, Bilal U</p>
-          <p class="pub-journal">Journal of Urban Health, 2022</p>
-          <a class="pub-doi" href="https://doi.org/10.1007/s11524-022-00658-y" target="_blank" rel="noopener">DOI: 10.1007/s11524-022-00658-y ↗</a>
+          <p class="pub-title">Variability and social patterning of cancer mortality in 343 Latin American cities</p>
+          <p class="pub-authors">Alfaro T, <strong>Martinez-Folgar K</strong>, Bilal U, et al.</p>
+          <p class="pub-journal">The Lancet Global Health, 2025</p>
+          <a class="pub-doi" href="https://doi.org/10.1016/S2214-109X(24)00446-7" target="_blank" rel="noopener">DOI: 10.1016/S2214-109X(24)00446-7 ↗</a>
         </div>
       </li>
     </ol>
