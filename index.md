@@ -11,8 +11,7 @@ title: Home
     <p class="opener-twist">But we know it does.</p>
     <p class="opener-explain">
       Differences in who gets cancer, at what stage, and whether they survive are not random.
-      Studying those differences across populations helps us understand cancer etiology
-      and how we can improve outcomes for everyone.
+      I argue that studying those differences is one of the most direct paths into understanding cancer.
     </p>
   </div>
   <div class="scroll-hint" aria-hidden="true">scroll</div>
