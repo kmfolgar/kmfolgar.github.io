@@ -26,7 +26,9 @@ title: Home
       <h2 class="intro-name">Kevin Martínez-Folgar, MD, PhD</h2>
       <p class="intro-role">Postdoctoral Research Fellow &nbsp;·&nbsp; Metabolic Epidemiology Branch, Division of Cancer Epidemiology and Genetics &nbsp;·&nbsp; National Cancer Institute, NIH</p>
       <p class="intro-bio">
-I am a physician-epidemiologist originally from Guatemala whose work examines how social and environmental contexts shape cancer risk and progression across populations. My research integrates cancer surveillance, molecular epidemiology, and biomarker approaches to understand inequities in cancer outcomes and the ways in which social conditions become biologically embedded in disease. Much of my work has focused on gastrointestinal cancers and infection-related malignancies, but my broader goal is to understand how place, environment, and social context interact with biology to shape cancer etiology, risk, and treatment.
+As physicians we act as lifeguards in a river, always pulling the drowning to shore, but rarely stopping to ask who is throwing people in?
+
+ We treat patients daily, but who is looking for the why's? That's why I became an epidemiologist. I am a physician born and trained in Guatemala, and my work tries to understand why this patient has this disease, in this place, at this particular time. My research integrates cancer surveillance, molecular epidemiology, and biomarker approaches to understand inequities in cancer outcomes and the ways in which social conditions become biologically embedded in disease. Much of my work has focused on gastrointestinal cancers and infection-related malignancies, but my broader goal is to understand how place, environment, and social context interact with biology to shape cancer etiology, risk, and treatment.
 
       </p>
       <p class="intro-bio">
@@ -54,8 +56,10 @@ I received my medical degree from the University of San Carlos of Guatemala and 
       <span class="section-label">Research</span>
       <h2 class="section-title">What I study</h2>
       <p class="section-intro">
-        My work spans cancer epidemiology, social determinants, and molecular approaches —
-        unified by the belief that disparities are windows into disease mechanisms.
+        All epidemiology is, at its core, differences research. Cases versus controls. One city versus another.
+        The same patient at two points in time. Disparities research is a different way to think of this:
+        it is a scientific instrument. Studying who gets cancer, where, and under what conditions is one of
+        the most direct paths into disease etiology itself, inferring progression factors and targeting treatment.
       </p>
     </div>
     <div class="research-grid">
