@@ -26,10 +26,7 @@ title: Home
       <h2 class="intro-name">Kevin Martínez-Folgar, MD, PhD</h2>
       <p class="intro-role">Postdoctoral Research Fellow &nbsp;·&nbsp; Metabolic Epidemiology Branch, Division of Cancer Epidemiology and Genetics &nbsp;·&nbsp; National Cancer Institute, NIH</p>
       <p class="intro-bio">
-As physicians we act as lifeguards in a river, always pulling the drowning to shore, but rarely stopping to ask who is throwing people in?
-
- We treat patients daily, but who is looking for the why's? That's why I became an epidemiologist. I am a physician born and trained in Guatemala, and my work tries to understand why this patient has this disease, in this place, at this particular time. My research integrates cancer surveillance, molecular epidemiology, and biomarker approaches to understand inequities in cancer outcomes and the ways in which social conditions become biologically embedded in disease. Much of my work has focused on gastrointestinal cancers and infection-related malignancies, but my broader goal is to understand how place, environment, and social context interact with biology to shape cancer etiology, risk, and treatment.
-
+As physicians we act as lifeguards in a river, always pulling the drowning to shore, but rarely stopping to ask who is throwing people in? We treat patients daily, but who is looking for the why's? That's why I became an epidemiologist. I am a physician born and trained in Guatemala, and my work tries to understand why this patient has this disease, in this place, at this particular time. My research integrates cancer surveillance, molecular epidemiology, and biomarker approaches to understand inequities in cancer outcomes and the ways in which social conditions become biologically embedded in disease. Much of my work has focused on gastrointestinal cancers and infection-related malignancies, but my broader goal is to understand how place, environment, and social context interact with biology to shape cancer etiology, risk, and treatment.
       </p>
       <p class="intro-bio">
 I received my medical degree from the University of San Carlos of Guatemala and earned a PhD in Epidemiology from Drexel University. I completed postdoctoral training at the University of Michigan and at the Division of Cancer Epidemiology and Genetics at the U.S. National Cancer Institute, National Institutes of Health. My work combines quantitative epidemiology with computational methods, using tools such as R, Python, Spark, geographic information systems, and AI-assisted workflows to translate complex data into insights that can inform public health policy and clinical practice.
@@ -61,42 +58,35 @@ I received my medical degree from the University of San Carlos of Guatemala and 
     </div>
     <div class="research-grid">
       <div class="r-card" data-animate data-delay="1">
-        <span class="r-card-label">Oncology</span>
-        <h3>Liver Cancer &amp; GI Malignancies</h3>
-        <p>Racial and ethnic disparities in hepatocellular carcinoma incidence, stage at diagnosis, and survival. Gastric cancer epidemiology and the role of <em>H. pylori</em> infection as a modifiable risk factor.</p>
+        <span class="r-card-label">Cancer Epidemiology</span>
+        <h3>Cancer Disparities &amp; Global Surveillance</h3>
+        <p>Using population differences as a scientific instrument to understand why cancer occurs, in whom, and under what conditions. Population-level monitoring of incidence, mortality, and survival, from Latin American cities to global registries, as a tool for tracing causal pathways and informing prevention.</p>
       </div>
       <div class="r-card" data-animate data-delay="2">
-        <span class="r-card-label">Surveillance</span>
-        <h3>Cancer Surveillance &amp; Proteomics</h3>
-        <p>Population-level monitoring of cancer burden trends across demographic and geographic groups. Integration of proteomic data to identify biological pathways underlying observed disparities.</p>
+        <span class="r-card-label">Molecular Epidemiology</span>
+        <h3>Molecular &amp; Exposomic Approaches</h3>
+        <p>Integrating biomarker data, proteomics, and exposomic frameworks to understand how biological pathways mediate the effects of social and environmental exposures on cancer risk and progression. Linking population-level patterns to molecular mechanisms.</p>
       </div>
       <div class="r-card" data-animate data-delay="3">
-        <span class="r-card-label">Social Epidemiology</span>
-        <h3>Social Determinants &amp; Urban Health</h3>
-        <p>Neighborhood-level socioeconomic deprivation, built environment, and healthcare access as drivers of cancer and chronic disease outcomes. Multi-city comparative studies across Latin American urban contexts.</p>
-      </div>
-      <div class="r-card" data-animate data-delay="4">
         <span class="r-card-label">Methods</span>
         <h3>Data Science &amp; AI in Epidemiology</h3>
-        <p>Reproducible analytic workflows in R and Python. Geospatial analysis (GIS), multilevel modeling, causal inference, and AI-assisted data capture pipelines for public health research.</p>
+        <p>Reproducible analytic workflows in R and Python. Geospatial analysis, multilevel modeling, causal inference, and AI-assisted data pipelines, translating complex population data into evidence for policy and clinical practice.</p>
       </div>
     </div>
 
     <ul class="chip-list" data-animate data-delay="5" style="margin-top:2rem;">
       <li>Cancer Epidemiology</li>
-      <li>Cancer Surveillance</li>
-      <li>Liver Cancer</li>
-      <li>Gastric Cancer</li>
-      <li><em>H. pylori</em></li>
-      <li>Proteomics</li>
-      <li>Social Determinants of Health</li>
+      <li>Global Cancer Surveillance</li>
+      <li>Cancer Disparities</li>
+      <li>Molecular Epidemiology</li>
+      <li>Biomarker Approaches</li>
+      <li>Infection-Related Malignancies</li>
+      <li>Pediatric Cancer Surveillance</li>
       <li>Health Equity</li>
-      <li>Urban Health</li>
-      <li>Latin American Epidemiology</li>
-      <li>GIS &amp; Geospatial Analysis</li>
+      <li>Geospatial Analysis</li>
       <li>Causal Inference</li>
       <li>AI-Assisted Analysis</li>
-      <li>ggplot2 &amp; Data Visualization</li>
+      <li>Data Visualization</li>
     </ul>
   </div>
 </section>
