@@ -49,10 +49,8 @@ I received my medical degree from the University of San Carlos of Guatemala and 
       <span class="section-label">Research</span>
       <h2 class="section-title">What I study</h2>
       <p class="section-intro">
-        All epidemiology is, at its core, differences research. Cases versus controls. One city versus another.
-        The same patient at two points in time. Disparities research is a different way to think of this:
-        it is a scientific instrument. Studying who gets cancer, where, and under what conditions is one of
-        the most direct paths into disease etiology itself, inferring progression factors and targeting treatment.
+        My work spans cancer epidemiology, molecular approaches, and data science, unified by one question:
+        why are cancer burdens distributed unequally across populations?
       </p>
     </div>
     <div class="research-grid">

@@ -8,9 +8,10 @@ permalink: /cv/
 
 # Kevin Martínez-Folgar, MD, PhD
 
-**Physician-epidemiologist** with research focused on cancer epidemiology, social determinants of health,
-urban health, and health equity. Work combines rigorous epidemiologic methods, geospatial approaches, and
-AI-enabled data workflows for policy-relevant public health research.
+**Physician-scientist** with research in cancer epidemiology, molecular approaches, and data science,
+focused on understanding why cancer burdens are distributed unequally across populations. Work integrates
+global cancer surveillance, exposomic and biomarker frameworks, and AI-enabled analytic workflows to
+generate evidence for policy and clinical practice.
 
 **Contact:** [GitHub](https://github.com/kmfolgar) · [ORCID](https://orcid.org/0000-0001-9262-298X) · [Google Scholar](https://scholar.google.com/citations?user=cAUPpBgAAAAJ)
 
