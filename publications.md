@@ -10,10 +10,10 @@ An up-to-date list is also available on [Google Scholar](https://scholar.google.
 
 ## Research Interests
 
-Cancer epidemiology · Cancer surveillance · Liver cancer disparities · Gastric cancer ·
-*H. pylori* & infection-related cancers · Proteomics · Social determinants of health · Urban health ·
-Chronic disease epidemiology · Health equity · Latin American health · Mortality and life expectancy ·
-Geospatial analysis · AI in public health research
+Cancer epidemiology · Global cancer surveillance · Cancer disparities · Molecular epidemiology ·
+Biomarker approaches · Infection-related malignancies · Pediatric cancer surveillance ·
+Social determinants of health · Urban health · Health equity · Latin American and global health ·
+Mortality and life expectancy · Geospatial analysis · AI in public health research
 
 ---
 

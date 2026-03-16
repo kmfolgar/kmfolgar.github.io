@@ -37,7 +37,7 @@ University of San Carlos of Guatemala
 
 **Postdoctoral Research Fellow, 2025–Present**
 Metabolic Epidemiology Branch, Division of Cancer Epidemiology and Genetics, NCI/NIH
-*Research on social and contextual determinants of liver cancer disparities in U.S. populations.*
+*Research on social and environmental determinants of cancer risk and disparities across diverse populations.*
 
 **Impact Scholar (Postdoctoral Research Fellow), 2023–2025**
 Center for Global Health Equity, University of Michigan
@@ -55,10 +55,11 @@ INCAP Research Center for Prevention of Chronic Diseases (CIIPEC), Guatemala Cit
 
 ## Core Methods &amp; Skills
 
-- Cancer epidemiology and cancer surveillance
-- Liver cancer and gastric cancer disparities
-- *Helicobacter pylori*-related malignancies
-- Proteomics and molecular epidemiology
+- Cancer epidemiology and global cancer surveillance
+- Cancer disparities and cancer outcomes research
+- Infection-related and gastrointestinal malignancies
+- Molecular epidemiology and biomarker approaches
+- Proteomics
 - Social epidemiology and urban health
 - Multilevel and longitudinal analysis
 - Mortality and life expectancy estimation

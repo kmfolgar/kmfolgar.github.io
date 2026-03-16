@@ -7,12 +7,14 @@ permalink: /about/
 # Kevin Martínez-Folgar, MD, PhD
 <p class="page-role">Postdoctoral Research Fellow &nbsp;·&nbsp; National Cancer Institute, NIH</p>
 
-Dr. Kevin Martínez-Folgar is a physician-epidemiologist whose research examines how social, contextual, and
-biological factors shape cancer outcomes and disparities. He completed postdoctoral training at the
-**University of Michigan** and the **US National Cancer Institute (NCI), NIH** — specifically as a
-Postdoctoral Research Fellow at the Metabolic Epidemiology Branch, Division of Cancer Epidemiology and
-Genetics (DCEG) — where his work spanned liver cancer (hepatocellular carcinoma), gastric cancer,
-*Helicobacter pylori*-related malignancies, proteomics, and cancer surveillance.
+Dr. Kevin Martínez-Folgar is a physician-epidemiologist born in Guatemala whose research examines how
+social, environmental, and contextual factors shape cancer risk and outcomes across populations. His work
+integrates cancer surveillance, molecular epidemiology, and biomarker approaches to understand inequities
+in cancer outcomes and the ways in which social conditions become biologically embedded in disease. He
+completed postdoctoral training at the **University of Michigan** and at the **Metabolic Epidemiology
+Branch, Division of Cancer Epidemiology and Genetics (DCEG)**, **U.S. National Cancer Institute (NCI),
+NIH**, where his research has spanned gastrointestinal and infection-related malignancies, proteomics,
+and cancer disparities.
 
 He believes that differences in who gets cancer, at what stage, and whether they survive are not random —
 and that studying those differences across populations is fundamental to understanding cancer etiology

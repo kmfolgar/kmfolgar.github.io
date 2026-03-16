@@ -26,20 +26,14 @@ title: Home
       <h2 class="intro-name">Kevin Martínez-Folgar, MD, PhD</h2>
       <p class="intro-role">Postdoctoral Research Fellow &nbsp;·&nbsp; Metabolic Epidemiology Branch, Division of Cancer Epidemiology and Genetics &nbsp;·&nbsp; National Cancer Institute, NIH</p>
       <p class="intro-bio">
-        I am a physician-epidemiologist from Guatemala working at the intersection of cancer biology,
-        social context, and place. My research focuses on liver cancer, gastric cancer,
-        <em>H. pylori</em>-related malignancies, proteomics, and cancer surveillance —
-        with a commitment to understanding disparities across racial, ethnic, and socioeconomic groups.
-        While my experience to date spans the United States and Latin America, I am expanding toward
-        global cancer epidemiology, with a growing focus on pediatric cancer surveillance and
-        molecular epidemiology at a global scale.
+I am a physician-epidemiologist originally from Guatemala whose work examines how social and environmental contexts shape cancer risk and progression across populations. My research integrates cancer surveillance, molecular epidemiology, and biomarker approaches to understand inequities in cancer outcomes and the ways in which social conditions become biologically embedded in disease. Much of my work has focused on gastrointestinal cancers and infection-related malignancies, but my broader goal is to understand how place, environment, and social context interact with biology to shape cancer etiology, risk, and treatment.
+
       </p>
       <p class="intro-bio">
-        I was trained as a physician at the University of San Carlos of Guatemala, earned my PhD
-        in Epidemiology at Drexel University, and completed postdoctoral training at the
-        University of Michigan and the US National Cancer Institute (NCI), NIH.
-        I use R, Python, GIS, and AI-assisted workflows to tell stories with data
-        that can inform public health policy.
+My work takes a comparative and international perspective and draws on data and collaborations across multiple regions. While my research has focused primarily on populations in the United States and Latin America, I am increasingly engaged in global cancer epidemiology, with growing interests in pediatric cancer surveillance and integrative molecular epidemiology across diverse populations.
+      </p>
+      <p class="intro-bio">
+I received my medical degree from the University of San Carlos of Guatemala and earned a PhD in Epidemiology from Drexel University. I completed postdoctoral training at the University of Michigan and at the Division of Cancer Epidemiology and Genetics at the U.S. National Cancer Institute, National Institutes of Health. My work combines quantitative epidemiology with computational methods, using tools such as R, Python, Spark, geographic information systems, and AI-assisted workflows to translate complex data into insights that can inform public health policy and clinical practice.
       </p>
       <div class="actions">
         <a class="btn btn-primary" href="{{ '/about/' | relative_url }}">About Me</a>
