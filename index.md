@@ -32,9 +32,6 @@ As physicians we act as lifeguards in a river, always pulling the drowning to sh
 
       </p>
       <p class="intro-bio">
-My work takes a comparative and international perspective and draws on data and collaborations across multiple regions. While my research has focused primarily on populations in the United States and Latin America, I am increasingly engaged in global cancer epidemiology, with growing interests in pediatric cancer surveillance and integrative molecular epidemiology across diverse populations.
-      </p>
-      <p class="intro-bio">
 I received my medical degree from the University of San Carlos of Guatemala and earned a PhD in Epidemiology from Drexel University. I completed postdoctoral training at the University of Michigan and at the Division of Cancer Epidemiology and Genetics at the U.S. National Cancer Institute, National Institutes of Health. My work combines quantitative epidemiology with computational methods, using tools such as R, Python, Spark, geographic information systems, and AI-assisted workflows to translate complex data into insights that can inform public health policy and clinical practice.
       </p>
       <div class="actions">
