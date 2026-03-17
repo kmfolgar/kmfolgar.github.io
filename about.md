@@ -61,7 +61,6 @@ practice around cancer.
 - **GitHub:** [github.com/kmfolgar](https://github.com/kmfolgar)
 - **ORCID:** [0000-0001-9262-298X](https://orcid.org/0000-0001-9262-298X)
 - **Google Scholar:** [View profile](https://scholar.google.com/citations?user=cAUPpBgAAAAJ)
-- **PubMed bibliography:** [View on NCBI](https://www.ncbi.nlm.nih.gov/myncbi/kevin.martinez-folgar.1/bibliography/public/)
 
 ---
 
