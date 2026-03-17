@@ -8,9 +8,9 @@ permalink: /about/
 <p class="page-role">Postdoctoral Research Fellow &nbsp;·&nbsp; Metabolic Epidemiology Branch, Division of Cancer Epidemiology and Genetics &nbsp;·&nbsp; National Cancer Institute, NIH</p>
 
 Dr. Kevin Martínez-Folgar is a physician-epidemiologist originally from Guatemala whose work examines how
-social, environmental, and contextual factors shape cancer risk and outcomes across populations, integrating
+contextual factors shape cancer risk and outcomes across populations, integrating
 **cancer surveillance**, **molecular epidemiology**, and **biomarker approaches** to understand the ways in
-which social conditions become biologically embedded in disease.
+which distinct conditions become biologically embedded in disease.
 
 He began his research career studying urban environments and chronic liver disease across Latin American cities,
 tracing how place, poverty, and social vulnerability translate into organ-level pathology. That trajectory led
@@ -18,9 +18,9 @@ him to cancer and to a core conviction: differences in who gets cancer, at what 
 are not random. They are structured. Studying that structure is fundamental to understanding cancer etiology
 and improving outcomes for everyone.
 
-Much of his work has focused on gastrointestinal and infection-related malignancies, including *H. pylori*,
-gastric cancer, and liver cancer, as well as on how exposomic and metabolic frameworks can illuminate
-disparities in underserved populations.
+Much of his work has focused on gastrointestinal and hepatological malignancies, including *H. pylori*,
+stomach cancer, and liver cancer, as well as on how exposomic and metabolic frameworks can illuminate
+disparities across populations.
 
 He joins the **International Agency for Research on Cancer (IARC)** in Lyon as a Scientist within the
 **Cancer Surveillance Branch**, where his work expands to global cancer epidemiology with a particular
@@ -48,11 +48,11 @@ practice around cancer.
 
 ## Skills & Tools
 
-- **Statistical computing:** R (primary — ggplot2, tidyverse, sf), Python
+- **Statistical computing:** R (primary — ggplot2, tidyverse, sf), Python (pandas, matplotlib, etc.)
 - **Geospatial analysis:** GIS, spatial econometrics, mapping
 - **Methods:** Multilevel modeling, causal inference, mediation analysis, mortality estimation, longitudinal analysis
 - **Data workflows:** AI-assisted data capture and analysis pipelines, reproducible research
-- **Languages:** Spanish (native), English (fluent)
+- **Languages:** Spanish (native), English (fluent), French (basic)
 
 ---
 
@@ -70,7 +70,7 @@ practice around cancer.
 ```python
 from Guatemala import kevin_mf as ThinkOnData
 
-roles = ["Dad", "Brother", "Son",
+roles = ["Dad", "Brother", "Son", "Husband"
          "Physician", "Epidemiologist",
          "Coder", "Researcher"]
 
