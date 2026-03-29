@@ -324,11 +324,23 @@ code {
   align-items: center;
 }
 
+.intro-illustration {
+  -webkit-mask-image: linear-gradient(to bottom, black 55%, transparent 100%);
+  mask-image: linear-gradient(to bottom, black 55%, transparent 100%);
+  overflow: hidden;
+}
+
 .intro-illustration img {
   width: 100%;
-  border-radius: var(--radius);
-  box-shadow: var(--shadow-lg);
+  max-height: 500px;
+  object-fit: cover;
+  object-position: top center;
   display: block;
+  transition: transform 0.7s var(--ease);
+}
+
+.intro-illustration:hover img {
+  transform: scale(1.03);
 }
 
 .intro-grid {
@@ -694,7 +706,7 @@ code {
     grid-template-columns: 1fr;
     gap: 2.5rem;
   }
-  .intro-illustration { order: -1; max-width: 280px; margin-inline: auto; }
+  .intro-illustration { order: -1; max-width: 320px; margin-inline: auto; }
 }
 
 @media (max-width: 600px) {
