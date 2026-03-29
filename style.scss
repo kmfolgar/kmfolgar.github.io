@@ -315,40 +315,52 @@ code {
 }
 
 /* ── Intro / identity section ───────────────────────────────────── */
-.intro-section { padding-top: clamp(4rem, 7vw, 7rem); }
-
-.intro-layout {
-  display: grid;
-  grid-template-columns: 1fr 320px;
-  gap: 4rem;
-  align-items: center;
-}
-
-.intro-illustration {
-  -webkit-mask-image: linear-gradient(to bottom, black 55%, transparent 100%);
-  mask-image: linear-gradient(to bottom, black 55%, transparent 100%);
+.intro-section {
+  padding-top: clamp(4rem, 7vw, 7rem);
+  position: relative;
   overflow: hidden;
 }
 
-.intro-illustration img {
+.intro-text {
+  position: relative;
+  z-index: 2;
+  max-width: 56ch;
+}
+
+/* White fade behind text so it stays legible over the illustration */
+.intro-section::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to right, var(--bg) 45%, transparent 75%);
+  z-index: 1;
+  pointer-events: none;
+}
+
+.intro-bg-illustration {
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 52%;
+  pointer-events: none;
+  -webkit-mask-image: linear-gradient(to right, transparent 0%, black 30%, black 70%, transparent 100%),
+                      linear-gradient(to bottom, black 60%, transparent 100%);
+  -webkit-mask-composite: source-in;
+  mask-image: linear-gradient(to right, transparent 0%, black 30%, black 70%, transparent 100%),
+              linear-gradient(to bottom, black 60%, transparent 100%);
+  mask-composite: intersect;
+}
+
+.intro-bg-illustration img {
   width: 100%;
-  max-height: 500px;
+  height: 100%;
   object-fit: cover;
   object-position: top center;
   display: block;
-  transition: transform 0.7s var(--ease);
+  opacity: 0.75;
 }
 
-.intro-illustration:hover img {
-  transform: scale(1.03);
-}
-
-.intro-grid {
-  display: grid;
-  grid-template-columns: 1fr auto;
-  gap: 2rem;
-  align-items: start;
-}
 
 .intro-name {
   font-family: var(--font-display);
@@ -706,7 +718,8 @@ code {
     grid-template-columns: 1fr;
     gap: 2.5rem;
   }
-  .intro-illustration { order: -1; max-width: 320px; margin-inline: auto; }
+  .intro-bg-illustration { display: none; }
+  .intro-section::before { display: none; }
 }
 
 @media (max-width: 600px) {
