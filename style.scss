@@ -317,6 +317,20 @@ code {
 /* ── Intro / identity section ───────────────────────────────────── */
 .intro-section { padding-top: clamp(4rem, 7vw, 7rem); }
 
+.intro-layout {
+  display: grid;
+  grid-template-columns: 1fr 320px;
+  gap: 4rem;
+  align-items: center;
+}
+
+.intro-illustration img {
+  width: 100%;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-lg);
+  display: block;
+}
+
 .intro-grid {
   display: grid;
   grid-template-columns: 1fr auto;
@@ -676,6 +690,11 @@ code {
   body { font-size: 0.97rem; }
   .research-grid { grid-template-columns: 1fr 1fr; }
   .intro-grid { grid-template-columns: 1fr; }
+  .intro-layout {
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
+  }
+  .intro-illustration { order: -1; max-width: 280px; margin-inline: auto; }
 }
 
 @media (max-width: 600px) {

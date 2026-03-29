@@ -69,7 +69,7 @@ practice around cancer.
 ```python
 from Guatemala import kevin_mf as ThinkOnData
 
-roles = ["Dad", "Brother", "Son", "Husband"
+roles = ["Dad", "Brother", "Son", "Husband",
          "Physician", "Epidemiologist",
          "Coder", "Researcher"]
 

@@ -20,23 +20,28 @@ title: Home
 <!-- ══ INTRO: Meet the researcher ══════════════════════════════ -->
 <section class="section intro-section" id="overview">
   <div class="shell">
-    <div data-animate>
-      <span class="section-label">Meet the researcher</span>
-      <h2 class="intro-name">Kevin Martínez-Folgar, MD, PhD</h2>
-      <p class="intro-role">Postdoctoral Research Fellow &nbsp;·&nbsp; Metabolic Epidemiology Branch, Division of Cancer Epidemiology and Genetics &nbsp;·&nbsp; National Cancer Institute, NIH</p>
-      <p class="intro-bio">
+    <div class="intro-layout" data-animate>
+      <div class="intro-text">
+        <span class="section-label">Meet the researcher</span>
+        <h2 class="intro-name">Kevin Martínez-Folgar, MD, PhD</h2>
+        <p class="intro-role">Postdoctoral Research Fellow &nbsp;·&nbsp; Metabolic Epidemiology Branch, Division of Cancer Epidemiology and Genetics &nbsp;·&nbsp; National Cancer Institute, NIH</p>
+        <p class="intro-bio">
 As physicians we act as lifeguards in a river, always pulling the drowning to shore. But one day we need to ask who (or what) is throwing so many people into the river? I was treating patients daily, but one day I wanted to understand the <strong>why's</strong>. So I became an epidemiologist. I am a physician-scientist born in Guatemala and trained in Guatemala and the United States, and my work tries to answer Geoffrey Rose's fundamental question: <em>why does this patient have this disease, in this place, at this particular time?</em> My research integrates cancer surveillance, molecular epidemiology, and biomarker approaches to understand inequities in cancer outcomes and the ways in which social conditions become biologically embedded in disease. Much of my work has focused on disparities and hepato-gastro malignancies, but my broader goal is to understand how place, environment, and social context interact with biology to shape cancer etiology, risk, and treatment.
-      </p>
-      <p class="intro-bio">
+        </p>
+        <p class="intro-bio">
 I received my medical degree from the University of San Carlos of Guatemala and earned a PhD in Epidemiology from Drexel University. I completed postdoctoral training at the University of Michigan and at the Division of Cancer Epidemiology and Genetics at the U.S. National Cancer Institute, National Institutes of Health. My work combines quantitative epidemiology with computational methods, using tools such as R, Python, Spark, geographic information systems, and AI-assisted workflows to translate complex data into insights that can inform public health policy and clinical practice.
-      </p>
-      <div class="actions">
-        <a class="btn btn-primary" href="{{ '/about/' | relative_url }}">About Me</a>
-        <a class="btn" href="{{ '/publications/' | relative_url }}">Publications</a>
-        <a class="btn" href="{{ '/cv/' | relative_url }}">CV</a>
-        <a class="btn" href="{{ site.google_scholar }}" target="_blank" rel="noopener">Google Scholar</a>
-        <a class="btn" href="https://orcid.org/{{ site.orcid }}" target="_blank" rel="noopener">ORCID</a>
-        <a class="btn" href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener">GitHub</a>
+        </p>
+        <div class="actions">
+          <a class="btn btn-primary" href="{{ '/about/' | relative_url }}">About Me</a>
+          <a class="btn" href="{{ '/publications/' | relative_url }}">Publications</a>
+          <a class="btn" href="{{ '/cv/' | relative_url }}">CV</a>
+          <a class="btn" href="{{ site.google_scholar }}" target="_blank" rel="noopener">Google Scholar</a>
+          <a class="btn" href="https://orcid.org/{{ site.orcid }}" target="_blank" rel="noopener">ORCID</a>
+          <a class="btn" href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener">GitHub</a>
+        </div>
+      </div>
+      <div class="intro-illustration">
+        <img src="{{ '/images/kevin-who-illustration.jpeg' | relative_url }}" alt="Illustration of Kevin presenting at a WHO event" />
       </div>
     </div>
   </div>
