@@ -317,44 +317,48 @@ code {
 /* ── Intro / identity section ───────────────────────────────────── */
 .intro-section {
   padding-top: clamp(4rem, 7vw, 7rem);
+  position: relative;
   overflow: hidden;
-}
-
-.intro-inner {
-  display: grid;
-  grid-template-columns: 1fr 1.15fr;
-  align-items: center;
-  gap: 0;
-  width: min(1140px, calc(100% - 4rem));
-  margin-inline: auto;
 }
 
 .intro-text {
-  max-width: 58ch;
-  padding-left: 3.5rem;
+  position: relative;
+  z-index: 2;
+  max-width: 56ch;
+}
+
+/* White fade behind text so it stays legible over the illustration */
+.intro-section::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to right, var(--bg) 45%, transparent 75%);
+  z-index: 1;
+  pointer-events: none;
 }
 
 .intro-bg-illustration {
-  height: 540px;
-  overflow: hidden;
-  border-radius: var(--radius) 0 0 var(--radius);
-  -webkit-mask-image:
-    linear-gradient(to right,  black 0%, black 50%, transparent 92%),
-    linear-gradient(to bottom, black 60%, transparent 100%);
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 62%;
+  pointer-events: none;
+  -webkit-mask-image: linear-gradient(to right, transparent 0%, black 20%, black 70%, transparent 100%),
+                      linear-gradient(to bottom, black 60%, transparent 100%);
   -webkit-mask-composite: source-in;
-  mask-image:
-    linear-gradient(to right,  black 0%, black 50%, transparent 92%),
-    linear-gradient(to bottom, black 60%, transparent 100%);
+  mask-image: linear-gradient(to right, transparent 0%, black 20%, black 70%, transparent 100%),
+              linear-gradient(to bottom, black 60%, transparent 100%);
   mask-composite: intersect;
 }
 
 .intro-bg-illustration img {
   width: 100%;
   height: 100%;
-  display: block;
   object-fit: cover;
-  object-position: center 15%;
-  opacity: 0.92;
+  object-position: 28% top;
+  display: block;
+  opacity: 0.82;
 }
 
 
@@ -714,11 +718,6 @@ code {
     grid-template-columns: 1fr;
     gap: 2.5rem;
   }
-  .intro-inner {
-    grid-template-columns: 1fr;
-    width: min(720px, calc(100% - 3rem));
-  }
-  .intro-text { padding-left: 0; }
   .intro-bg-illustration { display: none; }
   .intro-section::before { display: none; }
 }

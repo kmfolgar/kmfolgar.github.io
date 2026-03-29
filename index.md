@@ -19,10 +19,10 @@ title: Home
 
 <!-- ══ INTRO: Meet the researcher ══════════════════════════════ -->
 <section class="section intro-section" id="overview">
-  <div class="intro-inner">
-    <div class="intro-bg-illustration" aria-hidden="true">
-      <img src="{{ '/images/kevin-who-illustration.jpeg' | relative_url }}" alt="" />
-    </div>
+  <div class="intro-bg-illustration" aria-hidden="true">
+    <img src="{{ '/images/kevin-who-illustration.jpeg' | relative_url }}" alt="" />
+  </div>
+  <div class="shell">
     <div class="intro-text" data-animate>
       <span class="section-label">Meet the researcher</span>
       <h2 class="intro-name">Kevin Martínez-Folgar, MD, PhD</h2>
