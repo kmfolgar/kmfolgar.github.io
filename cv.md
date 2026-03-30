@@ -19,7 +19,10 @@ generate evidence for policy and clinical practice.
 
 ## Education &amp; Training
 
-**Postdoctoral Research Fellow, 2025–Present**
+**Scientist, 2026–Present**
+Cancer Surveillance Branch, International Agency for Research on Cancer (IARC), WHO — Lyon, France
+
+**Postdoctoral Research Fellow, 2025–2026**
 Metabolic Epidemiology Branch, Division of Cancer Epidemiology and Genetics
 National Cancer Institute (NCI), NIH
 
@@ -36,7 +39,11 @@ University of San Carlos of Guatemala
 
 ## Professional Experience
 
-**Postdoctoral Research Fellow, 2025–Present**
+**Scientist, 2026–Present**
+Cancer Surveillance Branch, International Agency for Research on Cancer (IARC), WHO — Lyon, France
+*Global cancer epidemiology, pediatric cancer surveillance, and molecular epidemiology at a global scale.*
+
+**Postdoctoral Research Fellow, 2025–2026**
 Metabolic Epidemiology Branch, Division of Cancer Epidemiology and Genetics, NCI/NIH
 *Research on social and environmental determinants of cancer risk and disparities across diverse populations.*
 

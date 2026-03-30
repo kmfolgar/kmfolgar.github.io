@@ -26,7 +26,7 @@ title: Home
     <div class="intro-text" data-animate>
       <span class="section-label">Meet the researcher</span>
       <h2 class="intro-name">Kevin Martínez-Folgar, MD, PhD</h2>
-      <p class="intro-role">Postdoctoral Research Fellow &nbsp;·&nbsp; Metabolic Epidemiology Branch, Division of Cancer Epidemiology and Genetics &nbsp;·&nbsp; National Cancer Institute, NIH</p>
+      <p class="intro-role">Scientist &nbsp;·&nbsp; Cancer Surveillance Branch &nbsp;·&nbsp; International Agency for Research on Cancer (IARC), WHO &nbsp;·&nbsp; Lyon, France</p>
       <p class="intro-bio">
 As physicians we act as lifeguards in a river, always pulling the drowning to shore. But one day we need to ask who (or what) is throwing so many people into the river? I was treating patients daily, but one day I wanted to understand the <strong>why's</strong>. So I became an epidemiologist. I am a physician-scientist born in Guatemala and trained in Guatemala and the United States, and my work tries to answer Geoffrey Rose's fundamental question: <em>why does this patient have this disease, in this place, at this particular time?</em> My research integrates cancer surveillance, molecular epidemiology, and biomarker approaches to understand inequities in cancer outcomes and the ways in which social conditions become biologically embedded in disease. Much of my work has focused on disparities and hepato-gastro malignancies, but my broader goal is to understand how place, environment, and social context interact with biology to shape cancer etiology, risk, and treatment.
       </p>

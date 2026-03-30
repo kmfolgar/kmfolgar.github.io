@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 # Kevin Martínez-Folgar, MD, PhD
-<p class="page-role">Postdoctoral Research Fellow &nbsp;·&nbsp; Metabolic Epidemiology Branch, Division of Cancer Epidemiology and Genetics &nbsp;·&nbsp; National Cancer Institute, NIH</p>
+<p class="page-role">Scientist &nbsp;·&nbsp; Cancer Surveillance Branch &nbsp;·&nbsp; International Agency for Research on Cancer (IARC), WHO &nbsp;·&nbsp; Lyon, France</p>
 
 Dr. Kevin Martínez-Folgar is a physician-epidemiologist originally from Guatemala whose work examines how
 contextual factors shape cancer risk and outcomes across populations, integrating
@@ -22,9 +22,9 @@ Much of his work has focused on gastrointestinal and hepatological malignancies,
 stomach cancer, and liver cancer, as well as on how exposomic and metabolic frameworks can illuminate
 disparities across populations.
 
-He joins the **International Agency for Research on Cancer (IARC)** in Lyon as a Scientist within the
-**Cancer Surveillance Branch**, where his work expands to global cancer epidemiology with a particular
-focus on **pediatric cancer surveillance** and **molecular epidemiology at a global scale**.
+He is currently a Scientist at the **International Agency for Research on Cancer (IARC)** in Lyon, within the
+**Cancer Surveillance Branch**, where his work focuses on global cancer epidemiology with a particular
+emphasis on **pediatric cancer surveillance** and **molecular epidemiology at a global scale**.
 
 Dr. Martínez-Folgar received his medical degree from the **University of San Carlos of Guatemala** and earned
 a **PhD in Epidemiology** from the Dornsife School of Public Health at **Drexel University**, where he was a
